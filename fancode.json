@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15 17:50:18 UTC",
-  "total_matches": 8,
+  "last_updated": "2026-03-15 17:58:41 UTC",
+  "total_matches": 5,
   "matches": [
     {
       "match_id": 131107,
@@ -65,45 +65,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773679446~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-aQYslA9QT_PyqYhxXTjBLj8XreuAXXofxbjBgez5C1qstPtTtPjLx_Nhp9N8ANrKK-8EP78gjJ6SkKV8BEyCwI",
       "expire_date": "Monday, March 16, 2026, 10:14:06 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140715,
-      "title": "Mexico Vs Suriname",
-      "tournament": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "category": "Cricket",
-      "status": "COMPLETED",
-      "startTime": "15 March 2026 08:00 PM",
-      "teams": "Mexico vs Suriname",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773670747~_GO=Generated~acl=/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/*~Signature=AR77L-arwz0J70wdCepu1zun8LMdmliKQXrIZ-DbPBlDoZqGIL-n_NYMfWs6FW-fFmfxbLLmMn1r5tfWXx8ZJxuP8MwN",
-      "expire_date": "Monday, March 16, 2026, 7:49:07 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131106,
-      "title": "Fc Barcelona Vs Sevilla Fc",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "15 March 2026 08:45 PM",
-      "teams": "FC Barcelona vs Sevilla FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672246~_GO=Generated~acl=/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/*~Signature=AR77L-blYLKvhnQJiCRGvmVsToAMEqKkQ8XMH5xnkllFt6HViAHfTGE2EdHwbHQ1eK8QqlDaXDz_kCQMCCWwg2g_L4gP",
-      "expire_date": "Monday, March 16, 2026, 8:14:06 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131106,
-      "title": "Fc Barcelona Vs Sevilla Fc",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "15 March 2026 08:45 PM",
-      "teams": "FC Barcelona vs Sevilla FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131106_bengali_hls_4e27414c5995686_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672248~_GO=Generated~acl=/mumbai/131106_bengali_hls_4e27414c5995686_1ta-di_h264/*~Signature=AR77L-YdZDP-4JacRNxOxQD9CYMIroX0wWFCKiYjiZCwCQCf57x3Fm1DSONl4K_RATb9chcWsSXkHhbwAbpF5_cYAMMC",
-      "expire_date": "Monday, March 16, 2026, 8:14:08 PM",
       "provider": "FanCode"
     }
   ]
