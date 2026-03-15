@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15 20:10:22 UTC",
-  "total_matches": 8,
+  "last_updated": "2026-03-15 20:20:19 UTC",
+  "total_matches": 7,
   "matches": [
     {
       "match_id": 140716,
@@ -91,19 +91,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773679446~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-aQYslA9QT_PyqYhxXTjBLj8XreuAXXofxbjBgez5C1qstPtTtPjLx_Nhp9N8ANrKK-8EP78gjJ6SkKV8BEyCwI",
       "expire_date": "Monday, March 16, 2026, 10:14:06 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131107,
-      "title": "Real Betis Vs Rc Celta",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "15 March 2026 11:00 PM",
-      "teams": "Real Betis vs RC Celta",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB",
-      "expire_date": "Monday, March 16, 2026, 10:35:08 PM",
       "provider": "FanCode"
     }
   ]
