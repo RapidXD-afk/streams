@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15 18:40:15 UTC",
+  "last_updated": "2026-03-15 18:50:16 UTC",
   "total_matches": 2,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015722/1772390485614152_bliga26_MD26_SC_Freiburg_vs_Union_Berlin_1mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773642688~acl=/*~id=67351262966408800102585396678252~hmac=d22fba7ee61bdd7f8020df7967c2e5fa07578badf1362593c6447187add50b4a",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773643296~acl=/*~id=73599584317369500678526920123606~hmac=5cad27fc78db9283adaa2d8395ec9d5cb4b1ec6810438dac669556082c00ec67",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015722/1772390887584152_bliga26_MD26_VfB_Stuttgart_vs_RB_Leipzig_1mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773642688~acl=/*~id=67351262966408800102585396678252~hmac=d22fba7ee61bdd7f8020df7967c2e5fa07578badf1362593c6447187add50b4a",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773643296~acl=/*~id=73599584317369500678526920123606~hmac=5cad27fc78db9283adaa2d8395ec9d5cb4b1ec6810438dac669556082c00ec67",
       "provider": "SonyLIV"
     }
   ]
