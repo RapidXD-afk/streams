@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15 11:01:53 UTC",
-  "total_matches": 6,
+  "last_updated": "2026-03-15 11:10:15 UTC",
+  "total_matches": 5,
   "matches": [
     {
       "match_id": 141408,
@@ -26,19 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/133991_english_hls_12619df5084660_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773655088~_GO=Generated~acl=/mumbai/133991_english_hls_12619df5084660_1ta-di_h264/*~Signature=AR77L-YZ_bDn9buMs8MVlAY61_FJN3GyWzUUg8oovgc3Fgi8gYNegyimzK9cUdelehhGDldiKS95zf3avCUnz7YnyJ4M",
       "expire_date": "Monday, March 16, 2026, 3:28:08 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141269,
-      "title": "Ncc Odisha Vs Cag Delhi",
-      "tournament": "Tillo Cup 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "15 March 2026 12:00 PM",
-      "teams": "NCC Odisha vs CAG Delhi",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773656769~_GO=Generated~acl=/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/*~Signature=AR77L-YDZzYWH4mbSuGpXpXpMoUo_rh-8bigJ84-liyuDyVnI2OzptPesW6z6EC2bptwbernbksq3WRgBFJIrY1GW6YJ",
-      "expire_date": "Monday, March 16, 2026, 3:56:09 PM",
       "provider": "FanCode"
     },
     {
@@ -68,16 +55,16 @@
       "provider": "FanCode"
     },
     {
-      "match_id": 141363,
-      "title": "Betwa Blasters Vs Ganga Warriors",
-      "tournament": "Ayodhya Premier League",
+      "match_id": 141269,
+      "title": "Ncc Odisha Vs Cag Delhi",
+      "tournament": "Tillo Cup 2026",
       "category": "Cricket",
       "status": "COMPLETED",
-      "startTime": "15 March 2026 01:30 PM",
-      "teams": "Betwa Blasters vs Ganga Warriors",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141363_6007_BB_GW_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141363_english_hls_9b2736483b44954_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773647052~_GO=Generated~acl=/mumbai/141363_english_hls_9b2736483b44954_1ta-di_h264/*~Signature=AR77L-Zyvl3gbuvAMSQ-6i7V86brKUdkmv0oUZsAc9VqS5TK4e9wSwyw3-8jhp9On_HsvXu7_MGpdIEzVaAOVoAm9bEH",
-      "expire_date": "Monday, March 16, 2026, 1:14:12 PM",
+      "startTime": "15 March 2026 12:00 PM",
+      "teams": "NCC Odisha vs CAG Delhi",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773656769~_GO=Generated~acl=/mumbai/141269_english_hls_66c7a4a15f34564_1ta-di_h264/*~Signature=AR77L-YDZzYWH4mbSuGpXpXpMoUo_rh-8bigJ84-liyuDyVnI2OzptPesW6z6EC2bptwbernbksq3WRgBFJIrY1GW6YJ",
+      "expire_date": "Monday, March 16, 2026, 3:56:09 PM",
       "provider": "FanCode"
     }
   ]
