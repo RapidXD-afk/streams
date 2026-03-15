@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15 19:20:17 UTC",
+  "last_updated": "2026-03-15 19:30:21 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015722/1772390887584152_bliga26_MD26_VfB_Stuttgart_vs_RB_Leipzig_1mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773645116~acl=/*~id=03225800409801016724256715513153~hmac=ad1a92590a69148075179634b5645d4d6d897ee03cdbf3aeaa77536954fa90ad",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773645722~acl=/*~id=35157181575704495633499172301260~hmac=4f23e520112d3d28e67a0329c57f58d71deb3a2c42c0fcef8b5247298ee7c78e",
       "provider": "SonyLIV"
     }
   ]
