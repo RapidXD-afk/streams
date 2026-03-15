@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15 17:10:15 UTC",
+  "last_updated": "2026-03-15 17:20:17 UTC",
   "total_matches": 10,
   "matches": [
     {
@@ -26,32 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773670747~_GO=Generated~acl=/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/*~Signature=AR77L-arwz0J70wdCepu1zun8LMdmliKQXrIZ-DbPBlDoZqGIL-n_NYMfWs6FW-fFmfxbLLmMn1r5tfWXx8ZJxuP8MwN",
       "expire_date": "Monday, March 16, 2026, 7:49:07 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131106,
-      "title": "Fc Barcelona Vs Sevilla Fc",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "15 March 2026 08:45 PM",
-      "teams": "FC Barcelona vs Sevilla FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672246~_GO=Generated~acl=/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/*~Signature=AR77L-blYLKvhnQJiCRGvmVsToAMEqKkQ8XMH5xnkllFt6HViAHfTGE2EdHwbHQ1eK8QqlDaXDz_kCQMCCWwg2g_L4gP",
-      "expire_date": "Monday, March 16, 2026, 8:14:06 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131106,
-      "title": "Fc Barcelona Vs Sevilla Fc",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "15 March 2026 08:45 PM",
-      "teams": "FC Barcelona vs Sevilla FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131106_bengali_hls_4e27414c5995686_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672248~_GO=Generated~acl=/mumbai/131106_bengali_hls_4e27414c5995686_1ta-di_h264/*~Signature=AR77L-YdZDP-4JacRNxOxQD9CYMIroX0wWFCKiYjiZCwCQCf57x3Fm1DSONl4K_RATb9chcWsSXkHhbwAbpF5_cYAMMC",
-      "expire_date": "Monday, March 16, 2026, 8:14:08 PM",
       "provider": "FanCode"
     },
     {
@@ -130,6 +104,32 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141408_english_hls_916665824985616_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773676267~_GO=Generated~acl=/mumbai/141408_english_hls_916665824985616_1ta-di_h264/*~Signature=AR77L-bFkFmKIJHc0gyFXSbURIy_qAqNYwHqss8_jPCOFurxiW5ncXoShCvonlT8zz-PNg99G48PxLsRafDiMjqG7dEG",
       "expire_date": "Monday, March 16, 2026, 9:21:07 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 131106,
+      "title": "Fc Barcelona Vs Sevilla Fc",
+      "tournament": "LALIGA 2025-26",
+      "category": "Football",
+      "status": "COMPLETED",
+      "startTime": "15 March 2026 08:45 PM",
+      "teams": "FC Barcelona vs Sevilla FC",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672246~_GO=Generated~acl=/mumbai/131106_english_hls_213e87a9b333328_1ta-di_h264/*~Signature=AR77L-blYLKvhnQJiCRGvmVsToAMEqKkQ8XMH5xnkllFt6HViAHfTGE2EdHwbHQ1eK8QqlDaXDz_kCQMCCWwg2g_L4gP",
+      "expire_date": "Monday, March 16, 2026, 8:14:06 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 131106,
+      "title": "Fc Barcelona Vs Sevilla Fc",
+      "tournament": "LALIGA 2025-26",
+      "category": "Football",
+      "status": "COMPLETED",
+      "startTime": "15 March 2026 08:45 PM",
+      "teams": "FC Barcelona vs Sevilla FC",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131106_bengali_hls_4e27414c5995686_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773672248~_GO=Generated~acl=/mumbai/131106_bengali_hls_4e27414c5995686_1ta-di_h264/*~Signature=AR77L-YdZDP-4JacRNxOxQD9CYMIroX0wWFCKiYjiZCwCQCf57x3Fm1DSONl4K_RATb9chcWsSXkHhbwAbpF5_cYAMMC",
+      "expire_date": "Monday, March 16, 2026, 8:14:08 PM",
       "provider": "FanCode"
     }
   ]
