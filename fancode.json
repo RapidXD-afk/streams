@@ -1,33 +1,7 @@
 {
-  "last_updated": "2026-03-15 17:40:18 UTC",
-  "total_matches": 9,
+  "last_updated": "2026-03-15 17:50:18 UTC",
+  "total_matches": 8,
   "matches": [
-    {
-      "match_id": 141309,
-      "title": "Royal Riders Punjab Vs Konark Suryas Odisha",
-      "tournament": "Legends League Cricket, 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "15 March 2026 07:30 PM",
-      "teams": "Royal Riders Punjab vs Konark Suryas Odisha",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141309_english_hls_8213e64c3a5573_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773668227~_GO=Generated~acl=/mumbai/141309_english_hls_8213e64c3a5573_1ta-di_h264/*~Signature=AR77L-YoAzJXoyMEBQse5rsncec2E96ZcepIGY-TYNaFwv6Al5mAg6RiWIhr4iROa1qJZYKQxm2Ys_V9kHzSmhWN45QA",
-      "expire_date": "Monday, March 16, 2026, 7:07:07 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140715,
-      "title": "Mexico Vs Suriname",
-      "tournament": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "15 March 2026 08:00 PM",
-      "teams": "Mexico vs Suriname",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773670747~_GO=Generated~acl=/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/*~Signature=AR77L-arwz0J70wdCepu1zun8LMdmliKQXrIZ-DbPBlDoZqGIL-n_NYMfWs6FW-fFmfxbLLmMn1r5tfWXx8ZJxuP8MwN",
-      "expire_date": "Monday, March 16, 2026, 7:49:07 PM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 131107,
       "title": "Real Betis Vs Rc Celta",
@@ -91,6 +65,19 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773679446~_GO=Generated~acl=/mumbai/141147_english_hls_c7c72ac39374750_1ta-di_h264/*~Signature=AR77L-aQYslA9QT_PyqYhxXTjBLj8XreuAXXofxbjBgez5C1qstPtTtPjLx_Nhp9N8ANrKK-8EP78gjJ6SkKV8BEyCwI",
       "expire_date": "Monday, March 16, 2026, 10:14:06 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 140715,
+      "title": "Mexico Vs Suriname",
+      "tournament": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "category": "Cricket",
+      "status": "COMPLETED",
+      "startTime": "15 March 2026 08:00 PM",
+      "teams": "Mexico vs Suriname",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773670747~_GO=Generated~acl=/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/*~Signature=AR77L-arwz0J70wdCepu1zun8LMdmliKQXrIZ-DbPBlDoZqGIL-n_NYMfWs6FW-fFmfxbLLmMn1r5tfWXx8ZJxuP8MwN",
+      "expire_date": "Monday, March 16, 2026, 7:49:07 PM",
       "provider": "FanCode"
     },
     {
