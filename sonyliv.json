@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 09:10:26 UTC",
+  "last_updated": "2026-03-17 09:30:19 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 5",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016263/1773666401317489_NZ_vs_SA_2nd_T20I_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773781422~acl=/*~id=12426042175061974609438723588818~hmac=2f0bc1c8c690794f7b28d9e462ef1067528449981ccb54ce36145e8e3a47e74f",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773782635~acl=/*~id=45741017886741458479721097388036~hmac=47ef73d591cbd5a8a72207abef546f04fbc640606a5d3463ed6b971d3b7041bf",
       "provider": "SonyLIV"
     }
   ]
