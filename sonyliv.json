@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 04:30:24 UTC",
+  "last_updated": "2026-03-17 04:40:17 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 5",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016272/1773672934242157_NZw_vs_SAw_2nd_T20I_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773764455~acl=/*~id=16008239968800681359129398181745~hmac=c15c299e29eb52c15337242edf448cd3746d27c4e88cecc36aed9dfeb924a681",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773765061~acl=/*~id=95514293862078129649439962274516~hmac=fdf2e33a5a5692f19a5df28152c4baf27baf5c1bbaf2dfb6b8f2dc365e4f9517",
       "provider": "SonyLIV"
     }
   ]
