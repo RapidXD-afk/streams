@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17 17:00:26 UTC",
-  "total_matches": 5,
+  "last_updated": "2026-03-17 17:10:16 UTC",
+  "total_matches": 4,
   "matches": [
     {
       "contentId": "1090506800_ENG",
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773810523~acl=/*~id=57639012464315595030159876217853~hmac=647cf039059154e6be2efc3cbe2307dfde4213765a3ab777c964441647396f38",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773810523~acl=/*~id=57639012464315595030159876217853~hmac=647cf039059154e6be2efc3cbe2307dfde4213765a3ab777c964441647396f38",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773810523~acl=/*~id=57639012464315595030159876217853~hmac=647cf039059154e6be2efc3cbe2307dfde4213765a3ab777c964441647396f38",
       "provider": "SonyLIV"
     },
     {
@@ -43,18 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090506811_ENG",
-      "match_name": "Villarreal vs PSG - 17 Mar 2026 [ENG]",
-      "event_name": "UEFA Youth League 2025-26",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773656314315712_UYL_QF_Villarreal-vs-PSG_live_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773810523~acl=/*~id=57639012464315595030159876217853~hmac=647cf039059154e6be2efc3cbe2307dfde4213765a3ab777c964441647396f38",
       "provider": "SonyLIV"
     }
   ]
