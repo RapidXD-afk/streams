@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 11:20:21 UTC",
+  "last_updated": "2026-03-17 11:30:22 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648405773805_IFC_Rajasthan_United_FC-vs-Real_Kashmir_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773789298~acl=/*~id=85575851813307568442264679888231~hmac=2f105556a1460b39369afdfe28db2e7ae6d2b345f7e448421d8970fcd399ef0e",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773789904~acl=/*~id=02785839552956903683442157137757~hmac=944dce0aec2ce873a6f97cb304bb3207ef976e16f63622414d4c1080413e8e4f",
       "provider": "SonyLIV"
     }
   ]
