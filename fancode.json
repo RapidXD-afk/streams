@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17 03:40:16 UTC",
-  "total_matches": 4,
+  "last_updated": "2026-03-17 04:10:19 UTC",
+  "total_matches": 3,
   "matches": [
     {
       "match_id": 141067,
@@ -26,19 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134043_english_hls_ad224acef247273_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773803529~_GO=Generated~acl=/mumbai/134043_english_hls_ad224acef247273_1ta-di_h264/*~Signature=AR77L-baMf2OcOaz1zk6HnWOo2mPn5giyrUh9_GlFR0Vb5EpL4z8waipO6sG0ZNJx-U4Wjp-R8O8NQFMCHsIWqwJ0qoF",
       "expire_date": "Wednesday, March 18, 2026, 8:42:09 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 134042,
-      "title": "South Australia Vs Victoria",
-      "tournament": "Sheffield Shield, 2025-26",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "14 March 2026 05:00 AM",
-      "teams": "South Australia vs Victoria",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134042_english_hls_bb67f89f6d71162_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773802689~_GO=Generated~acl=/mumbai/134042_english_hls_bb67f89f6d71162_1ta-di_h264/*~Signature=AR77L-YvTuYfJbUSOvWWApd9TqFfBrkDY4yJhV3L6fIIw5E1r7F2h_ze7Zrzx8ApxXW1ARX8ENkDuXPbyoVGYf1jfhgF",
-      "expire_date": "Wednesday, March 18, 2026, 8:28:09 AM",
       "provider": "FanCode"
     },
     {
