@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-03-17 22:10:17 UTC",
+  "last_updated": "2026-03-17 22:20:19 UTC",
   "total_matches": 1,
   "matches": [
     {
-      "match_id": 140949,
-      "title": "Barnsley Fc Vs Wigan Athletic",
-      "tournament": "League One 2025-26",
-      "category": "Football",
+      "match_id": 139178,
+      "title": "Atlanta Vs Los Angeles",
+      "tournament": "TGL Season 2",
+      "category": "Golf",
       "status": "LIVE",
-      "startTime": "18 March 2026 01:30 AM",
-      "teams": "Barnsley FC vs Wigan Athletic",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140949_english_hls_789a2e53f836611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773863467~_GO=Generated~acl=/mumbai/140949_english_hls_789a2e53f836611_1ta-di_h264/*~Signature=AR77L-YBCVq_ecwidJAfHWoVSVa1yRFZqtmVgLaZWfiek6bQNlqtoCZypF7rQWBUQenVO_XOeBB9KlwLggSdduuLABYB",
-      "expire_date": "Thursday, March 19, 2026, 1:21:07 AM",
+      "startTime": "18 March 2026 04:00 AM",
+      "teams": "Atlanta vs Los Angeles vs Florida",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/139178_english_hls_238090920d77390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773872346~_GO=Generated~acl=/mumbai/139178_english_hls_238090920d77390_1ta-di_h264/*~Signature=AR77L-YPJw8gM7om7hfG-iI2RS06t9dvNka5fSyX9tlin2Yb9YBu1RdA9ZSMiWJvdAQMG_JnvjZyUWt57a_RY5t5LDsG",
+      "expire_date": "Thursday, March 19, 2026, 3:49:06 AM",
       "provider": "FanCode"
     }
   ]

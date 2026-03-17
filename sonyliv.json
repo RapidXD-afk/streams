@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 22:10:17 UTC",
+  "last_updated": "2026-03-17 22:20:19 UTC",
   "total_matches": 4,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828158~acl=/*~id=43452578305739038824178617465741~hmac=fa02d4d0e84d7402701f6654e4ba784be553ba8e14e71ec7fe8d70df8dbfd7dd",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828764~acl=/*~id=46013434853894437301050096174558~hmac=c6ea1cc7424f979ecb2b97c8d2e7757c64e5d36272fb89119d0e4fb0198ee0f7",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828158~acl=/*~id=43452578305739038824178617465741~hmac=fa02d4d0e84d7402701f6654e4ba784be553ba8e14e71ec7fe8d70df8dbfd7dd",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828764~acl=/*~id=46013434853894437301050096174558~hmac=c6ea1cc7424f979ecb2b97c8d2e7757c64e5d36272fb89119d0e4fb0198ee0f7",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828158~acl=/*~id=43452578305739038824178617465741~hmac=fa02d4d0e84d7402701f6654e4ba784be553ba8e14e71ec7fe8d70df8dbfd7dd",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828764~acl=/*~id=46013434853894437301050096174558~hmac=c6ea1cc7424f979ecb2b97c8d2e7757c64e5d36272fb89119d0e4fb0198ee0f7",
       "provider": "SonyLIV"
     },
     {
@@ -43,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828158~acl=/*~id=43452578305739038824178617465741~hmac=fa02d4d0e84d7402701f6654e4ba784be553ba8e14e71ec7fe8d70df8dbfd7dd",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773828764~acl=/*~id=46013434853894437301050096174558~hmac=c6ea1cc7424f979ecb2b97c8d2e7757c64e5d36272fb89119d0e4fb0198ee0f7",
       "provider": "SonyLIV"
     }
   ]
