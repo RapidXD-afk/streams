@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 12:30:22 UTC",
+  "last_updated": "2026-03-17 12:40:15 UTC",
   "total_matches": 2,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648405773805_IFC_Rajasthan_United_FC-vs-Real_Kashmir_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773793540~acl=/*~id=30002909826516052813476742096389~hmac=db80419e1842207c91d021818767e794083be38d90cb81b76a03cdb1ffa35d6f",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773655717648712_UYL_QF_Atletico-vs-Club_Brugge_live_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773793540~acl=/*~id=30002909826516052813476742096389~hmac=db80419e1842207c91d021818767e794083be38d90cb81b76a03cdb1ffa35d6f",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
       "provider": "SonyLIV"
     }
   ]
