@@ -1,17 +1,5 @@
 {
-  "last_updated": "2026-03-17 05:10:17 UTC",
-  "total_matches": 1,
-  "matches": [
-    {
-      "contentId": "1090506773_ENG",
-      "match_name": "2nd T20I - 17 Mar 2026 [ENG]",
-      "event_name": "South Africa Women's Tour of New Zealand 2026",
-      "category": "Cricket",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 5",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016272/1773672934242157_NZw_vs_SAw_2nd_T20I_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773766879~acl=/*~id=02830804495329603068690648772583~hmac=2361e6abc0641db785d938e165e5e7bafb6287d77e5483fb08d798465899837a",
-      "provider": "SonyLIV"
-    }
-  ]
+  "last_updated": "2026-03-17 05:15:26 UTC",
+  "total_matches": 0,
+  "matches": []
 }
