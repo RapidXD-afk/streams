@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-17 05:00:24 UTC",
-  "total_matches": 5,
+  "last_updated": "2026-03-17 05:10:17 UTC",
+  "total_matches": 4,
   "matches": [
-    {
-      "match_id": 141067,
-      "title": "South Africa Women Vs New Zealand Women",
-      "tournament": "South Africa Women's tour of New Zealand, 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "17 March 2026 07:15 AM",
-      "teams": "South Africa Women vs New Zealand Women",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-      "stream_1080p": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls",
-      "expire_date": "Wednesday, March 18, 2026, 7:07:05 AM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141366,
       "title": "Manorama Marvels Vs Hindon Titans",
@@ -33,7 +20,7 @@
       "title": "Delhi Champions Vs Chennai Warlords",
       "tournament": "Thunderbolt T10 League 2026",
       "category": "Cricket",
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "startTime": "17 March 2026 10:10 AM",
       "teams": "Delhi Champions vs Chennai Warlords",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
