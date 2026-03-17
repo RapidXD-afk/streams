@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 16:50:22 UTC",
+  "last_updated": "2026-03-17 17:00:26 UTC",
   "total_matches": 5,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809309~acl=/*~id=84485586446295794783037638917293~hmac=c3c392a0c1b8614a8db454e0cf2da7ec358cf2d9f34589cc87ad9b6779669486",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809309~acl=/*~id=84485586446295794783037638917293~hmac=c3c392a0c1b8614a8db454e0cf2da7ec358cf2d9f34589cc87ad9b6779669486",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809309~acl=/*~id=84485586446295794783037638917293~hmac=c3c392a0c1b8614a8db454e0cf2da7ec358cf2d9f34589cc87ad9b6779669486",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
       "provider": "SonyLIV"
     },
     {
@@ -43,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016303/1773739503087746_champions_ki_charcha_Sporting_vs_Bodo_17march_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809309~acl=/*~id=84485586446295794783037638917293~hmac=c3c392a0c1b8614a8db454e0cf2da7ec358cf2d9f34589cc87ad9b6779669486",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
       "provider": "SonyLIV"
     },
     {
@@ -54,7 +54,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773656314315712_UYL_QF_Villarreal-vs-PSG_live_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809309~acl=/*~id=84485586446295794783037638917293~hmac=c3c392a0c1b8614a8db454e0cf2da7ec358cf2d9f34589cc87ad9b6779669486",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773809917~acl=/*~id=33902763046576499545816067550592~hmac=41d279ddfac3ab8c6d32401561b6cdadedbfd752b5ac2bf8e00105925958d921",
       "provider": "SonyLIV"
     }
   ]
