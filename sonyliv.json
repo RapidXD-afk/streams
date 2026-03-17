@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 13:50:18 UTC",
+  "last_updated": "2026-03-17 14:00:26 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773655717648712_UYL_QF_Atletico-vs-Club_Brugge_live_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773798388~acl=/*~id=13346564707520796971999789626654~hmac=ddd70d3e846935e6ed2a03a98fa2ba85f8d1849896d8dbaa8c3df60f8f89a205",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773798994~acl=/*~id=82452607616574523837446194787018~hmac=d8dbef289a82ef0860d232f16dd516520381538b418f76259a99942ad33f9a34",
       "provider": "SonyLIV"
     }
   ]
