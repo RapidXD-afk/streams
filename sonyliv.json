@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 18:10:20 UTC",
+  "last_updated": "2026-03-17 18:20:22 UTC",
   "total_matches": 4,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016257/177365887709212_UCL_26_RD16_L2_Sporting-CP-vs-Bodo-Glimt_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773813555~acl=/*~id=04140009164931035938480040280002~hmac=69c6dd7424fa89ee28b064ad5348eba90081e31773b9af67ad40c1e23b5b6a3c",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773814768~acl=/*~id=08987592150464346066981524817144~hmac=c9cdf29953aff74d4219d856a706654fcd7c8b6ba1d54c99e97d44c99818d08c",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016257/177365887709212_UCL_26_RD16_L2_Sporting-CP-vs-Bodo-Glimt_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773813555~acl=/*~id=04140009164931035938480040280002~hmac=69c6dd7424fa89ee28b064ad5348eba90081e31773b9af67ad40c1e23b5b6a3c",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773814768~acl=/*~id=08987592150464346066981524817144~hmac=c9cdf29953aff74d4219d856a706654fcd7c8b6ba1d54c99e97d44c99818d08c",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016257/177365887709212_UCL_26_RD16_L2_Sporting-CP-vs-Bodo-Glimt_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773813555~acl=/*~id=04140009164931035938480040280002~hmac=69c6dd7424fa89ee28b064ad5348eba90081e31773b9af67ad40c1e23b5b6a3c",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773814768~acl=/*~id=08987592150464346066981524817144~hmac=c9cdf29953aff74d4219d856a706654fcd7c8b6ba1d54c99e97d44c99818d08c",
       "provider": "SonyLIV"
     },
     {
@@ -43,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016257/177365887709212_UCL_26_RD16_L2_Sporting-CP-vs-Bodo-Glimt_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773813555~acl=/*~id=04140009164931035938480040280002~hmac=69c6dd7424fa89ee28b064ad5348eba90081e31773b9af67ad40c1e23b5b6a3c",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773814768~acl=/*~id=08987592150464346066981524817144~hmac=c9cdf29953aff74d4219d856a706654fcd7c8b6ba1d54c99e97d44c99818d08c",
       "provider": "SonyLIV"
     }
   ]
