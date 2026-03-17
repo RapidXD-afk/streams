@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-03-17 12:40:15 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-17 12:50:19 UTC",
+  "total_matches": 1,
   "matches": [
-    {
-      "contentId": "1090506835_ENG",
-      "match_name": "Rajasthan United FC vs Real Kashmir FC - 17 Mar 2026 [ENG]",
-      "event_name": "Indian Football League 2026",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648405773805_IFC_Rajasthan_United_FC-vs-Real_Kashmir_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
-      "provider": "SonyLIV"
-    },
     {
       "contentId": "1090506802_ENG",
       "match_name": "Atletico vs Club Brugge - 17 Mar 2026 [ENG]",
@@ -21,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773655717648712_UYL_QF_Atletico-vs-Club_Brugge_live_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794753~acl=/*~id=07017520154372221384097529337627~hmac=bef36d2eb8b64d8112404c3b42ce263ce864805d9094928ffa4b9585ad1f5057",
       "provider": "SonyLIV"
     }
   ]
