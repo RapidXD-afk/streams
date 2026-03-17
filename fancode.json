@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 07:00:24 UTC",
+  "last_updated": "2026-03-17 07:10:19 UTC",
   "total_matches": 4,
   "matches": [
     {
@@ -29,16 +29,16 @@
       "provider": "FanCode"
     },
     {
-      "match_id": 141205,
-      "title": "Delhi Champions Vs Chennai Warlords",
+      "match_id": 141206,
+      "title": "Bengal Royals Vs Tamil Nadu Titans",
       "tournament": "Thunderbolt T10 League 2026",
       "category": "Cricket",
       "status": "LIVE",
-      "startTime": "17 March 2026 10:10 AM",
-      "teams": "Delhi Champions vs Chennai Warlords",
+      "startTime": "17 March 2026 12:45 PM",
+      "teams": "Bengal Royals vs Tamil Nadu Titans",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141205_english_hls_d84642b33753382_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773808626~_GO=Generated~acl=/mumbai/141205_english_hls_d84642b33753382_1ta-di_h264/*~Signature=AR77L-boNechSIuiNuvxcUgwLK8stxUS-J39c8YShOMF99T3sIX1r9pZyr9G9yLbXfReEPfM8Qw9pLbzlmWHptomx3sE",
-      "expire_date": "Wednesday, March 18, 2026, 10:07:06 AM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773817390~_GO=Generated~acl=/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/*~Signature=AR77L-ZIHRxTMhK0QeSaFpooB4PJPj3ERwmh72qxwzEVZ5EsvRhrRQBajlMi3tLvBurl-DPLF-m9gR-Wg0EWATmWsOcJ",
+      "expire_date": "Wednesday, March 18, 2026, 12:33:10 PM",
       "provider": "FanCode"
     },
     {
