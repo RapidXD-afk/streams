@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 17:20:19 UTC",
+  "last_updated": "2026-03-18 17:30:24 UTC",
   "total_matches": 5,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897252~acl=/*~id=98420038589903824191144386294984~hmac=5fb57d7bdd4bbe32d8c8db01c6d276f788dab6458499a540e16c3129ab029145",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897858~acl=/*~id=15761414846763567322514440912232~hmac=8a3b6a08be47006c9c7c5c8695fbdf17270a4e4483b5830db47cb806c8a6a3bd",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897252~acl=/*~id=98420038589903824191144386294984~hmac=5fb57d7bdd4bbe32d8c8db01c6d276f788dab6458499a540e16c3129ab029145",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897858~acl=/*~id=15761414846763567322514440912232~hmac=8a3b6a08be47006c9c7c5c8695fbdf17270a4e4483b5830db47cb806c8a6a3bd",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897252~acl=/*~id=98420038589903824191144386294984~hmac=5fb57d7bdd4bbe32d8c8db01c6d276f788dab6458499a540e16c3129ab029145",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897858~acl=/*~id=15761414846763567322514440912232~hmac=8a3b6a08be47006c9c7c5c8695fbdf17270a4e4483b5830db47cb806c8a6a3bd",
       "provider": "SonyLIV"
     },
     {
@@ -43,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897252~acl=/*~id=98420038589903824191144386294984~hmac=5fb57d7bdd4bbe32d8c8db01c6d276f788dab6458499a540e16c3129ab029145",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897858~acl=/*~id=15761414846763567322514440912232~hmac=8a3b6a08be47006c9c7c5c8695fbdf17270a4e4483b5830db47cb806c8a6a3bd",
       "provider": "SonyLIV"
     },
     {
@@ -54,7 +54,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016105/1773040631802489_UEL_26_R-16-Leg-2_Braga-vs-Ferencvaros_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897252~acl=/*~id=98420038589903824191144386294984~hmac=5fb57d7bdd4bbe32d8c8db01c6d276f788dab6458499a540e16c3129ab029145",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773897858~acl=/*~id=15761414846763567322514440912232~hmac=8a3b6a08be47006c9c7c5c8695fbdf17270a4e4483b5830db47cb806c8a6a3bd",
       "provider": "SonyLIV"
     }
   ]
