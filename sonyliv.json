@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18 14:20:19 UTC",
-  "total_matches": 1,
+  "last_updated": "2026-03-18 14:35:59 UTC",
+  "total_matches": 2,
   "matches": [
     {
       "contentId": "1090506952_ENG",
@@ -10,7 +10,18 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773654982357712_UYL_QF_Real_Madrid-vs-Sporting_CP_live_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886319~acl=/*~id=46953988275434554019358217928637~hmac=55ff789b70a3f9f2a4a2352ec949cc9d3490ac18e32db7a5ccaa1c1aadc9ce86",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773887533~acl=/*~id=46013799547079086738658853407823~hmac=d7cb26edbc4fe294be669a174e1cb381d2fb0fcc8d57316abaa634be6cabd111",
+      "provider": "SonyLIV"
+    },
+    {
+      "contentId": "1090506961_ENG",
+      "match_name": "Inter vs Benfica - 18 Mar 2026 [ENG]",
+      "event_name": "UEFA Youth League 2025-26",
+      "category": "Football",
+      "isLive": true,
+      "broadcast_channel": "Sony Sports Ten 2",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773656924807712_UYL_QF_Inter-vs-Benfica_live_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773887533~acl=/*~id=46013799547079086738658853407823~hmac=d7cb26edbc4fe294be669a174e1cb381d2fb0fcc8d57316abaa634be6cabd111",
       "provider": "SonyLIV"
     }
   ]
