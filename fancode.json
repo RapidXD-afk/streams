@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18 15:20:19 UTC",
-  "total_matches": 7,
+  "last_updated": "2026-03-18 15:30:23 UTC",
+  "total_matches": 6,
   "matches": [
     {
       "match_id": 141313,
@@ -13,19 +13,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141313_english_hls_df187e54f668607_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773926767~_GO=Generated~acl=/mumbai/141313_english_hls_df187e54f668607_1ta-di_h264/*~Signature=AYUBS8pNa8YpghdQCX7NnZjJzPSQw6jYseTcRgRm7XWXLZGVAZ4-N4AF4eBIdeXOQRm1_BnU81Jlkh9uKMA3XQZWSIsM",
       "expire_date": "Thursday, March 19, 2026, 6:56:07 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141446,
-      "title": "Eagles Xi Vs Uganda",
-      "tournament": "Uganda tour of Namibia, 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "18 March 2026 05:30 PM",
-      "teams": "Eagles XI vs Uganda",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141446_english_hls_19e99d641b27325_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773920665~_GO=Generated~acl=/mumbai/141446_english_hls_19e99d641b27325_1ta-di_h264/*~Signature=AYUBS8oPcy-dfW7_eyW8ncTVORKbdhl95AvwptgbTrPn7vyO8P1Zug5Bg1CUP59mbcmfZUu9rMkYpzKC46QlgdsWvZwD",
-      "expire_date": "Thursday, March 19, 2026, 5:14:25 PM",
       "provider": "FanCode"
     },
     {
