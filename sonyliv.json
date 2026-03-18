@@ -1,49 +1,16 @@
 {
-  "last_updated": "2026-03-18 19:00:23 UTC",
-  "total_matches": 4,
+  "last_updated": "2026-03-15 08:24:02 UTC",
+  "total_matches": 1,
   "matches": [
     {
-      "contentId": "1090506953_ENG",
-      "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [ENG]",
-      "event_name": "UEFA Champions League 2025-26",
-      "category": "Football",
+      "contentId": "1090506678_ENG",
+      "match_name": " 1st T20I - 15 Mar 2026 [ENG]",
+      "event_name": "South Africa Tour of New Zealand 2026",
+      "category": "Cricket",
       "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016262/177366561209029_UCL_26_RD16_L2_Barcelona-vs-Newcastle-United_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773903315~acl=/*~id=64797543284515373352196306283622~hmac=89d8994d08330f4c35430fbb7787e693e0ccb4f4953cf3279e4581c0d5e293f6",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090506953_HIN",
-      "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [HIN]",
-      "event_name": "UEFA Champions League 2025-26",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016262/177366561209029_UCL_26_RD16_L2_Barcelona-vs-Newcastle-United_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773903315~acl=/*~id=64797543284515373352196306283622~hmac=89d8994d08330f4c35430fbb7787e693e0ccb4f4953cf3279e4581c0d5e293f6",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090506953_TAM",
-      "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [TAM]",
-      "event_name": "UEFA Champions League 2025-26",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016262/177366561209029_UCL_26_RD16_L2_Barcelona-vs-Newcastle-United_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773903315~acl=/*~id=64797543284515373352196306283622~hmac=89d8994d08330f4c35430fbb7787e693e0ccb4f4953cf3279e4581c0d5e293f6",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090506953_TEL",
-      "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [TEL]",
-      "event_name": "UEFA Champions League 2025-26",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016262/177366561209029_UCL_26_RD16_L2_Barcelona-vs-Newcastle-United_landscape_thumb_sponsor.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773903315~acl=/*~id=64797543284515373352196306283622~hmac=89d8994d08330f4c35430fbb7787e693e0ccb4f4953cf3279e4581c0d5e293f6",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016172/177342651465599_NZvsSA26_1t20i_13mar_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773605744~acl=/*~id=77361165377660621912439122521227~hmac=a3892a82abb09747876fe2de7f82d7f8187626b469e710104c75ebadb0322fa2",
       "provider": "SonyLIV"
     }
   ]
