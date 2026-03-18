@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18 06:40:17 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-18 06:50:19 UTC",
+  "total_matches": 1,
   "matches": [
     {
       "match_id": 141368,
@@ -13,19 +13,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141368_english_hls_5d0a8413ba38104_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773890346~_GO=Generated~acl=/mumbai/141368_english_hls_5d0a8413ba38104_1ta-di_h264/*~Signature=AR77L-amLM0C2IQt_iqURwdCHwrQhNNrjuHBFgvOStgMp84rERGN2nli77XQD8c02jy5NNuFa4Ej8cB3ktcfgfitwR4K",
       "expire_date": "Thursday, March 19, 2026, 8:49:06 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141208,
-      "title": "Mumbai Maverics Vs Chennai Warlords",
-      "tournament": "Thunderbolt T10 League 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "18 March 2026 10:10 AM",
-      "teams": "Mumbai Maverics vs Chennai Warlords",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA",
-      "expire_date": "Thursday, March 19, 2026, 10:04:24 AM",
       "provider": "FanCode"
     }
   ]
