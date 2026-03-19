@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 11:30:22 UTC",
+  "last_updated": "2026-03-19 11:40:18 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648580399805_IFC_Chanmari_FC-vs-Shillong_Lajong_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773962704~acl=/*~id=50285470686471725494038118531328~hmac=3e9a08ca2d6f2c082125ae048af14545a6736c5f05528d1cba57786fb071f070",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773963324~acl=/*~id=54951585038314204997046377095667~hmac=612df43db6383c83c8995c8ace6b73aa720bb890a5bc02fe0829338b5a46b1dc",
       "provider": "SonyLIV"
     }
   ]
