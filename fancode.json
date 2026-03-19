@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19 04:10:19 UTC",
-  "total_matches": 5,
+  "last_updated": "2026-03-19 04:20:16 UTC",
+  "total_matches": 4,
   "matches": [
     {
       "match_id": 141370,
@@ -13,19 +13,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141370_english_hls_5c9996a2398362_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773977409~_GO=Generated~acl=/mumbai/141370_english_hls_5c9996a2398362_1ta-di_h264/*~Signature=AYUBS8oC7gkqWlyAi0r1gSAVHLb79eN867Qxu1ccgfGDfYHWj4BBirg9vXoiBRx-15pbhzWeQUxA6n4qi5XAncru64sE",
       "expire_date": "Friday, March 20, 2026, 9:00:09 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141104,
-      "title": "Club Am\u00e9rica Vs Philadelphia Union",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "19 March 2026 06:30 AM",
-      "teams": "Club Am\u00e9rica vs Philadelphia Union",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141104_english_hls_932d60a24923981_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773967867~_GO=Generated~acl=/mumbai/141104_english_hls_932d60a24923981_1ta-di_h264/*~Signature=AYUBS8phUc-9pbFgz1irYK7JqHChqh4z9gVsHV6RtmBdPBKdpBgODs4jRGcV5maocrdcxHuQqyJP6QQTVCbidCv9t7oE",
-      "expire_date": "Friday, March 20, 2026, 6:21:07 AM",
       "provider": "FanCode"
     },
     {
