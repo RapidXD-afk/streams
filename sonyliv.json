@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-03-19 12:40:21 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-19 12:50:18 UTC",
+  "total_matches": 1,
   "matches": [
-    {
-      "contentId": "1090506963_ENG",
-      "match_name": "Chanmari FC vs Shillong Lajong FC - 19 Mar 2026 [ENG]",
-      "event_name": "Indian Football League 2026",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648580399805_IFC_Chanmari_FC-vs-Shillong_Lajong_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773966979~acl=/*~id=72863383228256368153502589841914~hmac=03b33d05e46b060c64e39a822a4e4624ab83d77443dc2fa89c97c52c0d2ecf40",
-      "provider": "SonyLIV"
-    },
     {
       "contentId": "1090506966_ENG",
       "match_name": "Sreenidi Deccan FC vs Namdhari FC - 19 Mar 2026 [ENG]",
@@ -21,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648806296805_IFC_Sreenidi_Deccan_FC_vs_Namdhari_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773966979~acl=/*~id=72863383228256368153502589841914~hmac=03b33d05e46b060c64e39a822a4e4624ab83d77443dc2fa89c97c52c0d2ecf40",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773967585~acl=/*~id=08248897941431471510973446180257~hmac=2c1d6f5b5a1e196b0aec64fc0383355c498edecaab6dc1fd38138193c83ff22d",
       "provider": "SonyLIV"
     }
   ]
