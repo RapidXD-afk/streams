@@ -1,33 +1,7 @@
 {
-  "last_updated": "2026-03-19 22:00:21 UTC",
-  "total_matches": 12,
+  "last_updated": "2026-03-19 22:10:17 UTC",
+  "total_matches": 10,
   "matches": [
-    {
-      "match_id": 141389,
-      "title": "Marquee Feed   Day 1\t",
-      "tournament": "Valspar Championship 2026",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "19 March 2026 05:30 PM",
-      "teams": "Marquee Feed - Day 1\t vs Palm Harbor, Florida",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141389_english_hls_47996f64b322088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774036688~_GO=Generated~acl=/mumbai/141389_english_hls_47996f64b322088_1ta-di_h264/*~Signature=AYUBS8rDoS2hzBi2fHe6JCvGkGHxXwVOrJTxpAVwbqF6VLZrbrpv_6YM_P2TxFsDvBPNVuVLXuQMBVjWi8NmyTmQ-zQC",
-      "expire_date": "Saturday, March 21, 2026, 1:28:08 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141387,
-      "title": "Featured Holes   Day 1\t",
-      "tournament": "Valspar Championship 2026",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "19 March 2026 06:00 PM",
-      "teams": "Featured Holes - Day 1\t vs Palm Harbor, Florida",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141387_english_hls_aa3bd463cb91759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774038607~_GO=Generated~acl=/mumbai/141387_english_hls_aa3bd463cb91759_1ta-di_h264/*~Signature=AYUBS8pZrn19SK7aHVvlBDGy7UBB8fHm1O3TfwRXlkYo92-i2WLrAHJVLsELOm9bcS8mO01BZiDUAT5cyhORm4GfFjQD",
-      "expire_date": "Saturday, March 21, 2026, 2:00:07 AM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141386,
       "title": "Main Feed   Day 1\t",
