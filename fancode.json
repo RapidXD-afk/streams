@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19 16:10:18 UTC",
-  "total_matches": 14,
+  "last_updated": "2026-03-19 16:20:18 UTC",
+  "total_matches": 12,
   "matches": [
     {
       "match_id": 141314,
@@ -156,32 +156,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141460_english_hls_79a331273e17009_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774021870~_GO=Generated~acl=/mumbai/141460_english_hls_79a331273e17009_1ta-di_h264/*~Signature=AYUBS8rkdVGnGSaOBIHbSxPxTMLYOTNYcvy4WQ0odRVdQ3z9ukpwmDV-adaZHcTq9WSwid3T8QOgvWpTFZ8NC5xXzisP",
       "expire_date": "Friday, March 20, 2026, 9:21:10 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140466,
-      "title": "Sporting Club Delhi Vs Jamshedpur Fc",
-      "tournament": "ISL 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "19 March 2026 07:30 PM",
-      "teams": "Sporting Club Delhi vs Jamshedpur FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140466_5956_SCD_JFC_FC-Web_1772964306483.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140466_english_hls_3416c85c6c66888_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774014248~_GO=Generated~acl=/mumbai/140466_english_hls_3416c85c6c66888_1ta-di_h264/*~Signature=AYUBS8p8w2gO0uxy9_m7hpeGk6RsUb1jMXPoXMxuelvZRcRNbqUflcCb8mBQZ6cyzQIfCGZinTkLxbRGHHX7JiWN8eIM",
-      "expire_date": "Friday, March 20, 2026, 7:14:08 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140466,
-      "title": "Sporting Club Delhi Vs Jamshedpur Fc",
-      "tournament": "ISL 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "19 March 2026 07:30 PM",
-      "teams": "Sporting Club Delhi vs Jamshedpur FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140466_5956_SCD_JFC_FC-Web_1772964306483.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140466_bengali_hls_0e5df1732353758_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774014251~_GO=Generated~acl=/mumbai/140466_bengali_hls_0e5df1732353758_1ta-di_h264/*~Signature=AYUBS8paZhWDxW2Y9PVb1ga8-mf4UdJfqyzmeBDGsUH52EXHTCEvRpJcsibkKwiCjzyhVSdDUutqoluJQwkTFw_luFMD",
-      "expire_date": "Friday, March 20, 2026, 7:14:11 PM",
       "provider": "FanCode"
     }
   ]
