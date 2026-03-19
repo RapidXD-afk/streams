@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 14:10:20 UTC",
+  "last_updated": "2026-03-19 14:20:20 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648806296805_IFC_Sreenidi_Deccan_FC_vs_Namdhari_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773972441~acl=/*~id=59960062281746719597534162525937~hmac=2eee2d55fe22a155417afc44fb4abe468967745ca17a5272f8fe90fd7f0b1916",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773973037~acl=/*~id=64017585002407912947905753067212~hmac=e6a213e137c551a3fb6d9b3e31239b410ae9be3ba17dadf470d5d495ca48b5ae",
       "provider": "SonyLIV"
     }
   ]
