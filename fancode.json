@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-19 22:20:19 UTC",
-  "total_matches": 8,
+  "last_updated": "2026-03-19 22:30:19 UTC",
+  "total_matches": 7,
   "matches": [
     {
       "match_id": 141328,
       "title": "Australia Women Vs West Indies Women",
       "tournament": "Australia Women's tour of West Indies 2026",
       "category": "Cricket",
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "startTime": "20 March 2026 04:00 AM",
       "teams": "Australia Women vs West Indies Women",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
@@ -52,19 +52,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141036_english_hls_95023780a875735_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774032667~_GO=Generated~acl=/mumbai/141036_english_hls_95023780a875735_1ta-di_h264/*~Signature=AYUBS8q98lFvkZw1fWSuEsX0eFJswz38NA_2WE0qQHdObp5RC9u47HicKMck_c7rb6KWkeG-CmAeCg-xG6xkZpppJmYF",
       "expire_date": "Saturday, March 21, 2026, 12:21:07 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141458,
-      "title": "D Court Feed",
-      "tournament": "ATP Masters Miami Open 2026",
-      "category": "Tennis",
-      "status": "LIVE",
-      "startTime": "19 March 2026 08:30 PM",
-      "teams": "D Court Feed vs Miami, United States",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141458_english_hls_0dadd57a7817212_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774032669~_GO=Generated~acl=/mumbai/141458_english_hls_0dadd57a7817212_1ta-di_h264/*~Signature=AYUBS8o9eZ3kSgursQb_6bCb-sIH4us2N3nL0LCx5Xu-sPe_YqecQhNyUOK4ADuhv3S8HvPAxFX3I8E3O1ZarFtuPzkA",
-      "expire_date": "Saturday, March 21, 2026, 12:21:09 AM",
       "provider": "FanCode"
     },
     {

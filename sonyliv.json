@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 22:20:19 UTC",
+  "last_updated": "2026-03-19 22:30:19 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016105/1773053527372489_UEL_26_R-16-Leg-2_AS-Roma-vs-Bologna_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774001616~acl=/*~id=51253834757887321753916955031960~hmac=2dd1a9440c208a778e8861ea545a6555cefafd9561544ea634e893cf7c3b431c",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774002221~acl=/*~id=56501342797647860847288521412529~hmac=6b085a20dbd4f7357c7d2fcf832a81827bf98173f517f6b430ccd12f9a66a561",
       "provider": "SonyLIV"
     }
   ]
