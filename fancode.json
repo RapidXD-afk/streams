@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19 01:20:18 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-19 01:30:22 UTC",
+  "total_matches": 1,
   "matches": [
     {
       "match_id": 141104,
@@ -13,19 +13,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141104_english_hls_932d60a24923981_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773967867~_GO=Generated~acl=/mumbai/141104_english_hls_932d60a24923981_1ta-di_h264/*~Signature=AYUBS8phUc-9pbFgz1irYK7JqHChqh4z9gVsHV6RtmBdPBKdpBgODs4jRGcV5maocrdcxHuQqyJP6QQTVCbidCv9t7oE",
       "expire_date": "Friday, March 20, 2026, 6:21:07 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141103,
-      "title": "Inter Miami Cf Vs Nashville Sc",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "19 March 2026 04:30 AM",
-      "teams": "Inter Miami CF vs Nashville SC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141103_english_hls_9c6e52817643189_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773961102~_GO=Generated~acl=/mumbai/141103_english_hls_9c6e52817643189_1ta-di_h264/*~Signature=AYUBS8onoMhI94u0NwP9Xlt-G6lGObP4zFpiW6ezr94whIni2rsd-y03iCxrZlV85KpOuhGXQkqSGV9n_Bw8geztOrUK",
-      "expire_date": "Friday, March 20, 2026, 4:28:22 AM",
       "provider": "FanCode"
     }
   ]
