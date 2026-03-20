@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 13:40:19 UTC",
+  "last_updated": "2026-03-20 13:50:17 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648994019805_IFC_Aizawl_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774056773~acl=/*~id=80486749955534609304142282642018~hmac=4d41660a07640db15c17e7cbc8aef8cfd4c6c9f26454e1b816772b4be54315f4",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774057379~acl=/*~id=43390188135874700895276243184100~hmac=c09bb86445c1f581b0e7cec735f99979965e29a379300cc2bebbc762200994a3",
       "provider": "SonyLIV"
     }
   ]
