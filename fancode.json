@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20 00:50:18 UTC",
-  "total_matches": 8,
+  "last_updated": "2026-03-20 01:00:20 UTC",
+  "total_matches": 6,
   "matches": [
     {
       "match_id": 141328,
@@ -42,19 +42,6 @@
       "provider": "FanCode"
     },
     {
-      "match_id": 141459,
-      "title": "E Court Feed",
-      "tournament": "ATP Masters Miami Open 2026",
-      "category": "Tennis",
-      "status": "LIVE",
-      "startTime": "19 March 2026 07:30 PM",
-      "teams": "E Court Feed vs Miami, United States",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141459_english_hls_707f4ace7d95144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774043887~_GO=Generated~acl=/mumbai/141459_english_hls_707f4ace7d95144_1ta-di_h264/*~Signature=AYUBS8o2YF_3NfwZi25A1jE2nGstCEOYlGmkRV1IGoiNhs3YeHz6JCH7VZEbS-mR5gKgw9ebf1ynM0IOH54BTZe1uuII",
-      "expire_date": "Saturday, March 21, 2026, 3:28:07 AM",
-      "provider": "FanCode"
-    },
-    {
       "match_id": 141457,
       "title": "H Court Feed",
       "tournament": "ATP Masters Miami Open 2026",
@@ -81,19 +68,6 @@
       "provider": "FanCode"
     },
     {
-      "match_id": 141460,
-      "title": "B Court Feed",
-      "tournament": "ATP Masters Miami Open 2026",
-      "category": "Tennis",
-      "status": "LIVE",
-      "startTime": "19 March 2026 09:30 PM",
-      "teams": "B Court Feed vs Miami, United States",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141460_english_hls_79a331273e17009_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774051936~_GO=Generated~acl=/mumbai/141460_english_hls_79a331273e17009_1ta-di_h264/*~Signature=AYUBS8pQb7xvUDGTCDnzxDZswYsbOo5EpIx7bmx-wtYZGMGgmDl850pkH8PGxD3jrhyfDKoVraBhg2Q3_6yADs1KxUUI",
-      "expire_date": "Saturday, March 21, 2026, 5:42:16 AM",
-      "provider": "FanCode"
-    },
-    {
       "match_id": 141037,
       "title": "A Court Feed",
       "tournament": "ATP Masters Miami Open 2026",
@@ -102,8 +76,8 @@
       "startTime": "19 March 2026 10:30 PM",
       "teams": "A Court Feed vs Miami, United States",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774039868~_GO=Generated~acl=/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/*~Signature=AYUBS8oZqwoXyN14WoN4SYo9zTmvph4QSAnolpXN_TY7ZGz384YunXrFWfHWdoTTDUZMUM5a0oXarWaPyPQdf8OG5FEP",
-      "expire_date": "Saturday, March 21, 2026, 2:21:08 AM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774054275~_GO=Generated~acl=/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/*~Signature=AYUBS8pknr_ISQO7dTwDL9DGXMdmO7V8ZiaTKmHIhb3vKW9ykATnOZvRIlRvD-3YQd140Iw4mk_DDgnB19gV95BSTNQD",
+      "expire_date": "Saturday, March 21, 2026, 6:21:15 AM",
       "provider": "FanCode"
     }
   ]
