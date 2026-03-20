@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20 02:30:17 UTC",
-  "total_matches": 4,
+  "last_updated": "2026-03-20 02:40:16 UTC",
+  "total_matches": 2,
   "matches": [
     {
       "match_id": 141068,
@@ -26,32 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141108_5954_TIG_CIN_1772957805588.png",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141108_english_hls_5f396e343630388_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774053853~_GO=Generated~acl=/mumbai/141108_english_hls_5f396e343630388_1ta-di_h264/*~Signature=AYUBS8oj538T9kwOCUdP2g2YfkQUiXtZRagA0Y_g6ujrtl-zEy5NQd1buh_mhSUnYfNBM4sB2dj7ZeGwqVVFnZw8OcgH",
       "expire_date": "Saturday, March 21, 2026, 6:14:13 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141036,
-      "title": "World Feed",
-      "tournament": "ATP Masters Miami Open 2026",
-      "category": "Tennis",
-      "status": "LIVE",
-      "startTime": "19 March 2026 08:30 PM",
-      "teams": "World Feed vs Miami, United States",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141036_english_hls_95023780a875735_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774047917~_GO=Generated~acl=/mumbai/141036_english_hls_95023780a875735_1ta-di_h264/*~Signature=AYUBS8qVRmVsbEoB3FYM3LZ-JZIMFNeUjQcqHMjoEZgVpUHImnwJViqlmPhQvIRmdVduaE_nYVVusgG5SqFVmT9G0cgI",
-      "expire_date": "Saturday, March 21, 2026, 4:35:17 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141037,
-      "title": "A Court Feed",
-      "tournament": "ATP Masters Miami Open 2026",
-      "category": "Tennis",
-      "status": "LIVE",
-      "startTime": "19 March 2026 10:30 PM",
-      "teams": "A Court Feed vs Miami, United States",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774054275~_GO=Generated~acl=/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/*~Signature=AYUBS8pknr_ISQO7dTwDL9DGXMdmO7V8ZiaTKmHIhb3vKW9ykATnOZvRIlRvD-3YQd140Iw4mk_DDgnB19gV95BSTNQD",
-      "expire_date": "Saturday, March 21, 2026, 6:21:15 AM",
       "provider": "FanCode"
     }
   ]
