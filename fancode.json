@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20 07:52:18 UTC",
-  "total_matches": 3,
+  "last_updated": "2026-03-20 08:00:22 UTC",
+  "total_matches": 2,
   "matches": [
     {
       "match_id": 141063,
@@ -16,24 +16,11 @@
       "provider": "FanCode"
     },
     {
-      "match_id": 141372,
-      "title": "Manorama Marvels Vs Saryu Smashers",
-      "tournament": "Ayodhya Premier League",
-      "category": "Cricket",
-      "status": "COMPLETED",
-      "startTime": "20 March 2026 09:00 AM",
-      "teams": "Manorama Marvels vs Saryu Smashers",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774077977~_GO=Generated~acl=/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/*~Signature=AYUBS8ptoT-AaP5pzK7Pbra0xuaYtAbt0VkwyLCRYVMZw3-uGIg9qj7bawgAnBD0swIY4Zu4lyo0EJ1nHq5fGPxstS8K",
-      "expire_date": "Saturday, March 21, 2026, 12:56:17 PM",
-      "provider": "FanCode"
-    },
-    {
       "match_id": 141373,
       "title": "Chambal Chargers Vs Gomti Thunder",
       "tournament": "Ayodhya Premier League",
       "category": "Cricket",
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "startTime": "20 March 2026 01:30 PM",
       "teams": "Chambal Chargers vs Gomti Thunder",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
