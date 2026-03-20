@@ -1,5 +1,17 @@
 {
-  "last_updated": "2026-03-20 05:40:18 UTC",
-  "total_matches": 0,
-  "matches": []
+  "last_updated": "2026-03-20 05:50:20 UTC",
+  "total_matches": 1,
+  "matches": [
+    {
+      "contentId": "1090507195_ENG",
+      "match_name": "3rd T20I - 20 Mar 2026 [ENG]",
+      "event_name": "South Africa Tour of New Zealand 2026",
+      "category": "Cricket",
+      "isLive": true,
+      "broadcast_channel": "Sony Sports Ten 5",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016290/1773730875558868_NZ_vs_SA_3rd_T20I_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774028872~acl=/*~id=58336032549636196359667482426968~hmac=b4d222da1ccea2870b3b2823600b9057429e1dadd1f60b91933677de7904bf0f",
+      "provider": "SonyLIV"
+    }
+  ]
 }
