@@ -1,17 +1,5 @@
 {
-  "last_updated": "2026-03-20 15:00:24 UTC",
-  "total_matches": 1,
-  "matches": [
-    {
-      "contentId": "1090507247_ENG",
-      "match_name": "Aizawl FC vs Diamond Harbour FC - 20 Mar 2026 [ENG]",
-      "event_name": "Indian Football League 2026",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648994019805_IFC_Aizawl_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774061627~acl=/*~id=76866034087482174779702746816445~hmac=28fc921cf6d4cd2674b9ef049e125d13c115020dcc0a7e93bb9ba1bb91d72984",
-      "provider": "SonyLIV"
-    }
-  ]
+  "last_updated": "2026-03-20 15:14:55 UTC",
+  "total_matches": 0,
+  "matches": []
 }
