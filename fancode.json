@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 01:20:16 UTC",
+  "last_updated": "2026-03-20 01:30:18 UTC",
   "total_matches": 5,
   "matches": [
     {
@@ -13,19 +13,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774044724~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8qC7xWdIV1B3ZcYgrUVjkZKsiAfvjRMlu91AEBBJ5ixn6YYyKzngbCfE3g45ZclEXHonl0IAfLKX77tnkXZ1R0A",
       "expire_date": "Saturday, March 21, 2026, 3:42:04 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141107,
-      "title": "Mount Pleasant Fa Vs La Galaxy",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "20 March 2026 04:30 AM",
-      "teams": "Mount Pleasant FA vs LA Galaxy",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141107_english_hls_ee4f4969807031_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774046646~_GO=Generated~acl=/mumbai/141107_english_hls_ee4f4969807031_1ta-di_h264/*~Signature=AYUBS8oJy3EryW8wEaxALGolWUYicEnlFUE0DO3IF2t7IjpJsk2FpYBiwqK0Im3M4NX0yjiC5UWXezRgbCqvmfqzX1gD",
-      "expire_date": "Saturday, March 21, 2026, 4:14:06 AM",
       "provider": "FanCode"
     },
     {
@@ -65,6 +52,19 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774054275~_GO=Generated~acl=/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/*~Signature=AYUBS8pknr_ISQO7dTwDL9DGXMdmO7V8ZiaTKmHIhb3vKW9ykATnOZvRIlRvD-3YQd140Iw4mk_DDgnB19gV95BSTNQD",
       "expire_date": "Saturday, March 21, 2026, 6:21:15 AM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 141068,
+      "title": "New Zealand Women Vs South Africa Women",
+      "tournament": "South Africa Women's tour of New Zealand, 2026",
+      "category": "Cricket",
+      "status": "NOT_STARTED",
+      "startTime": "20 March 2026 07:15 AM",
+      "teams": "New Zealand Women vs South Africa Women",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+      "stream_1080p": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1774056374~acl=%2f*~id=12f634a3-d954-486b-b38e-bd2e29f570d8~data=hdntl~hmac=379ff5997019386c1c3ece2f4b519e6ccd446cd94c09a40f0b4df4c14111eb02/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC2871pAAAAAO3SBsiy6z%2fIKc37%2fcwX7v4eESXpya2%2frvRzsv08t9LHUIA%2fSDko9JpNnEgFkV9juF0f%2fg7XPkii&aka_media_format_type=hls",
+      "expire_date": "Saturday, March 21, 2026, 6:56:14 AM",
       "provider": "FanCode"
     }
   ]
