@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-20 06:00:21 UTC",
+  "last_updated": "2026-03-20 06:10:17 UTC",
   "total_matches": 2,
   "matches": [
-    {
-      "match_id": 141372,
-      "title": "Manorama Marvels Vs Saryu Smashers",
-      "tournament": "Ayodhya Premier League",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "20 March 2026 09:00 AM",
-      "teams": "Manorama Marvels vs Saryu Smashers",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774063160~_GO=Generated~acl=/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/*~Signature=AYUBS8rJZ5mKuDDFwMwHDAdA3ZtFgJlo1DAMOl17T4t0vOywxeY9ZcsVCaO3DGeSWHyJ3AzHl6Rmqwqq7uEEfhq-Ha4D",
-      "expire_date": "Saturday, March 21, 2026, 8:49:20 AM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141063,
       "title": "South Africa Vs New Zealand",
@@ -26,6 +13,19 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
       "stream_1080p": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774072695~acl=%2f*~id=b2d3677f-ab0e-4387-be59-9515906cfe12~data=hdntl~hmac=69b1e14a6105d8f7350d60237570aea5997e6532901958446560877f39590d8b/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB3M75pAAAAAAu2seyYMK4KqeMZjR8581qRHOLCQI70baQBrvvMff%2fvBysaKT4ukrwp6xhBljg89yJprVo4jIkc&aka_media_format_type=hls",
       "expire_date": "Saturday, March 21, 2026, 11:28:15 AM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 141372,
+      "title": "Manorama Marvels Vs Saryu Smashers",
+      "tournament": "Ayodhya Premier League",
+      "category": "Cricket",
+      "status": "LIVE",
+      "startTime": "20 March 2026 09:00 AM",
+      "teams": "Manorama Marvels vs Saryu Smashers",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774063160~_GO=Generated~acl=/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/*~Signature=AYUBS8rJZ5mKuDDFwMwHDAdA3ZtFgJlo1DAMOl17T4t0vOywxeY9ZcsVCaO3DGeSWHyJ3AzHl6Rmqwqq7uEEfhq-Ha4D",
+      "expire_date": "Saturday, March 21, 2026, 8:49:20 AM",
       "provider": "FanCode"
     }
   ]
