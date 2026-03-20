@@ -1,45 +1,5 @@
 {
-  "last_updated": "2026-03-20 09:10:16 UTC",
-  "total_matches": 3,
-  "matches": [
-    {
-      "match_id": 141063,
-      "title": "South Africa Vs New Zealand",
-      "tournament": "South Africa tour of New Zealand, 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "20 March 2026 11:45 AM",
-      "teams": "South Africa vs New Zealand",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-      "stream_1080p": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774072695~acl=%2f*~id=b2d3677f-ab0e-4387-be59-9515906cfe12~data=hdntl~hmac=69b1e14a6105d8f7350d60237570aea5997e6532901958446560877f39590d8b/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB3M75pAAAAAAu2seyYMK4KqeMZjR8581qRHOLCQI70baQBrvvMff%2fvBysaKT4ukrwp6xhBljg89yJprVo4jIkc&aka_media_format_type=hls",
-      "expire_date": "Saturday, March 21, 2026, 11:28:15 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141373,
-      "title": "Chambal Chargers Vs Gomti Thunder",
-      "tournament": "Ayodhya Premier League",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "20 March 2026 01:30 PM",
-      "teams": "Chambal Chargers vs Gomti Thunder",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141373_english_hls_bfc1937bec35894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774079052~_GO=Generated~acl=/mumbai/141373_english_hls_bfc1937bec35894_1ta-di_h264/*~Signature=AYUBS8qXFfQC31z62xwCKzRKEFF0OnBX2t20O1MKr2XKCWiYAiNnwMEND-dAmUtczUNNeF26SM32cpGWMjKqvkU_OtwH",
-      "expire_date": "Saturday, March 21, 2026, 1:14:12 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140917,
-      "title": "Western Sydney Wanderers Vs Adelaide United",
-      "tournament": "A League 2025-26",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "20 March 2026 02:05 PM",
-      "teams": "Western Sydney Wanderers vs Adelaide United",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140917_english_hls_1d24f1d76d82646_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774083076~_GO=Generated~acl=/mumbai/140917_english_hls_1d24f1d76d82646_1ta-di_h264/*~Signature=AYUBS8qKeExzfv9hUo6e4q3eFdy_SravSGFtkDP94fU-EKssURqJqkmHjprBUQ0oczJ9sZObt1tKj2CCrZ5pIO8ptgEI",
-      "expire_date": "Saturday, March 21, 2026, 2:21:16 PM",
-      "provider": "FanCode"
-    }
-  ]
+  "last_updated": "2026-03-20 09:20:19 UTC",
+  "total_matches": 0,
+  "matches": []
 }
