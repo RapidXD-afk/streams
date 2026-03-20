@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20 03:50:16 UTC",
-  "total_matches": 3,
+  "last_updated": "2026-03-20 04:00:24 UTC",
+  "total_matches": 2,
   "matches": [
     {
       "match_id": 141068,
@@ -26,19 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774063160~_GO=Generated~acl=/mumbai/141372_english_hls_fd06e5dad796563_1ta-di_h264/*~Signature=AYUBS8rJZ5mKuDDFwMwHDAdA3ZtFgJlo1DAMOl17T4t0vOywxeY9ZcsVCaO3DGeSWHyJ3AzHl6Rmqwqq7uEEfhq-Ha4D",
       "expire_date": "Saturday, March 21, 2026, 8:49:20 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141108,
-      "title": "Tigres Vs Fc Cincinnati",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "20 March 2026 06:30 AM",
-      "teams": "Tigres vs FC Cincinnati",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141108_5954_TIG_CIN_1772957805588.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141108_english_hls_5f396e343630388_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774053853~_GO=Generated~acl=/mumbai/141108_english_hls_5f396e343630388_1ta-di_h264/*~Signature=AYUBS8oj538T9kwOCUdP2g2YfkQUiXtZRagA0Y_g6ujrtl-zEy5NQd1buh_mhSUnYfNBM4sB2dj7ZeGwqVVFnZw8OcgH",
-      "expire_date": "Saturday, March 21, 2026, 6:14:13 AM",
       "provider": "FanCode"
     }
   ]
