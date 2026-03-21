@@ -1,50 +1,5 @@
 {
-  "last_updated": "2026-03-21 23:40:17 UTC",
-  "total_matches": 4,
-  "matches": [
-    {
-      "contentId": "1090507348_ENG",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [ENG]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774179183~acl=/*~id=80311408576816363146082794590471~hmac=156d04fe9382fa1caeed348de936df452dbb2187a3554f4f0bc333657b7e43be",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507348_HIN",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [HIN]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774179183~acl=/*~id=80311408576816363146082794590471~hmac=156d04fe9382fa1caeed348de936df452dbb2187a3554f4f0bc333657b7e43be",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507348_TAM",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [TAM]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774179183~acl=/*~id=80311408576816363146082794590471~hmac=156d04fe9382fa1caeed348de936df452dbb2187a3554f4f0bc333657b7e43be",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507348_TEL",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [TEL]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774179183~acl=/*~id=80311408576816363146082794590471~hmac=156d04fe9382fa1caeed348de936df452dbb2187a3554f4f0bc333657b7e43be",
-      "provider": "SonyLIV"
-    }
-  ]
+  "last_updated": "2026-03-21 23:50:18 UTC",
+  "total_matches": 0,
+  "matches": []
 }
