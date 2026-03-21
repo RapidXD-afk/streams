@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 23:00:26 UTC",
+  "last_updated": "2026-03-21 23:10:18 UTC",
   "total_matches": 4,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774176755~acl=/*~id=10145980218927799764883787383303~hmac=18c46f8e1c5f574f3b10c263df9b19c0bde4ec6ba7d44bf32a1cbba55e2d6c30",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774177362~acl=/*~id=85958011809253738899768121390950~hmac=296c028b5310726583e785833700b579c1a1ed4138166140c7d731e5d1b08e5d",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774176755~acl=/*~id=10145980218927799764883787383303~hmac=18c46f8e1c5f574f3b10c263df9b19c0bde4ec6ba7d44bf32a1cbba55e2d6c30",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774177362~acl=/*~id=85958011809253738899768121390950~hmac=296c028b5310726583e785833700b579c1a1ed4138166140c7d731e5d1b08e5d",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774176755~acl=/*~id=10145980218927799764883787383303~hmac=18c46f8e1c5f574f3b10c263df9b19c0bde4ec6ba7d44bf32a1cbba55e2d6c30",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774177362~acl=/*~id=85958011809253738899768121390950~hmac=296c028b5310726583e785833700b579c1a1ed4138166140c7d731e5d1b08e5d",
       "provider": "SonyLIV"
     },
     {
@@ -43,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774176755~acl=/*~id=10145980218927799764883787383303~hmac=18c46f8e1c5f574f3b10c263df9b19c0bde4ec6ba7d44bf32a1cbba55e2d6c30",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774177362~acl=/*~id=85958011809253738899768121390950~hmac=296c028b5310726583e785833700b579c1a1ed4138166140c7d731e5d1b08e5d",
       "provider": "SonyLIV"
     }
   ]
