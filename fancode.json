@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-21 19:10:18 UTC",
+  "last_updated": "2026-03-21 19:20:17 UTC",
   "total_matches": 16,
   "matches": [
-    {
-      "match_id": 140958,
-      "title": "Swansea City A.f.c. Vs Coventry City F.c.",
-      "tournament": "EFL Championship 2025-26",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "21 March 2026 10:45 PM",
-      "teams": "Swansea City A.F.C. vs Coventry City F.C.",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774198691~_GO=Generated~acl=/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/*~Signature=AYUBS8rNiIztWYDttoq_BfHmXikTxlJ737sjG-wD71gDnc4Zf6xYpOQklUiLvzbz742pYUq5i8jgbTp26xvm2sX4FtIF",
-      "expire_date": "Sunday, March 22, 2026, 10:28:11 PM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 131117,
       "title": "Levante Vs Real Oviedo",
@@ -208,6 +195,19 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774203547~_GO=Generated~acl=/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/*~Signature=AYUBS8q9Nmc4_iSXYMG11qshROGkrKAqp_uAT19q4bssPVbX3xfuFuKaPlA8hAfdwUBCimbo3D1Vu2x4iiVvKWTbJckI",
       "expire_date": "Sunday, March 22, 2026, 11:49:07 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 140958,
+      "title": "Swansea City A.f.c. Vs Coventry City F.c.",
+      "tournament": "EFL Championship 2025-26",
+      "category": "Football",
+      "status": "COMPLETED",
+      "startTime": "21 March 2026 10:45 PM",
+      "teams": "Swansea City A.F.C. vs Coventry City F.C.",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774198691~_GO=Generated~acl=/mumbai/140958_english_hls_86aa664e5d62535_1ta-di_h264/*~Signature=AYUBS8rNiIztWYDttoq_BfHmXikTxlJ737sjG-wD71gDnc4Zf6xYpOQklUiLvzbz742pYUq5i8jgbTp26xvm2sX4FtIF",
+      "expire_date": "Sunday, March 22, 2026, 10:28:11 PM",
       "provider": "FanCode"
     }
   ]
