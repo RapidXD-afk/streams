@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 12:40:19 UTC",
+  "last_updated": "2026-03-21 12:50:18 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 5",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015719/1772376112679740_ABB_FIA_FormulaE_WC26_Round6_Madrid_EPrix_final_Race_1mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI18-M5/std_lrh-800300010.m3u8?hdnea=exp=1774139734~acl=/*~id=56375902023792521200479915710339~hmac=5a67c5baf567ea11578212a16cf661b1a9b7e1df5c1cfdcaee10ea20c2a4a599",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI18-M5/std_lrh-800300010.m3u8?hdnea=exp=1774140342~acl=/*~id=31912325026934075450375294129075~hmac=778d2ba8f09c65413cfcee643eb00a654c725b58764661d00665d274fa756922",
       "provider": "SonyLIV"
     }
   ]
