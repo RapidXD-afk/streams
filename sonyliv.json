@@ -1,49 +1,16 @@
 {
-  "last_updated": "2026-03-21 21:30:19 UTC",
-  "total_matches": 4,
+  "last_updated": "2026-03-15 08:24:02 UTC",
+  "total_matches": 1,
   "matches": [
     {
-      "contentId": "1090507348_ENG",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [ENG]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
+      "contentId": "1090506678_ENG",
+      "match_name": " 1st T20I - 15 Mar 2026 [ENG]",
+      "event_name": "South Africa Tour of New Zealand 2026",
+      "category": "Cricket",
       "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774171303~acl=/*~id=30726944125014868981263238696114~hmac=fcce36634794065d98655272e2398811ca7c8feb63dcffffbd040ce96f63d80a",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507348_HIN",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [HIN]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774171303~acl=/*~id=30726944125014868981263238696114~hmac=fcce36634794065d98655272e2398811ca7c8feb63dcffffbd040ce96f63d80a",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507348_TAM",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [TAM]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774171303~acl=/*~id=30726944125014868981263238696114~hmac=fcce36634794065d98655272e2398811ca7c8feb63dcffffbd040ce96f63d80a",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507348_TEL",
-      "match_name": "UFC Fight Night - Evloev vs Murphy - 22 Mar 2026 [TEL]",
-      "event_name": "UFC Fight Night - Evloev vs Murphy",
-      "category": "Fight Sports",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774171303~acl=/*~id=30726944125014868981263238696114~hmac=fcce36634794065d98655272e2398811ca7c8feb63dcffffbd040ce96f63d80a",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016172/177342651465599_NZvsSA26_1t20i_13mar_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773605744~acl=/*~id=77361165377660621912439122521227~hmac=a3892a82abb09747876fe2de7f82d7f8187626b469e710104c75ebadb0322fa2",
       "provider": "SonyLIV"
     }
   ]
