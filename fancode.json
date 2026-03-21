@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 20:40:16 UTC",
-  "total_matches": 14,
+  "last_updated": "2026-03-21 20:50:17 UTC",
+  "total_matches": 13,
   "matches": [
     {
       "match_id": 131118,
@@ -39,19 +39,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774208648~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qLp29FT5CYBY_6kS-PVrw5GoFJktXW2sqUkdTZrCEYRnwVq8_b0rZCUB7L8BfrbS1q7f4VLMvoIPitU3zX8OsP",
       "expire_date": "Monday, March 23, 2026, 1:14:08 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141396,
-      "title": "Main Feed   Day 3\t",
-      "tournament": "Valspar Championship 2026",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "21 March 2026 06:15 PM",
-      "teams": "Main Feed - Day 3\t vs Palm Harbor, Florida",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774210790~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8qVAxA9pB7aAWwAi1TDazc5QFpItsvjZR_YEMRHssO-375Gwnx-xz-J9SWPmqpVSCbbsZrDRYJJ2UqejPoXx4YD",
-      "expire_date": "Monday, March 23, 2026, 1:49:50 AM",
       "provider": "FanCode"
     },
     {
