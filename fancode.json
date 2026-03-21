@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 21:00:21 UTC",
-  "total_matches": 13,
+  "last_updated": "2026-03-21 21:10:18 UTC",
+  "total_matches": 12,
   "matches": [
     {
       "match_id": 131118,
@@ -68,19 +68,6 @@
       "provider": "FanCode"
     },
     {
-      "match_id": 141399,
-      "title": "Marquee Feed   Day 3\t",
-      "tournament": "Valspar Championship 2026",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "21 March 2026 08:15 PM",
-      "teams": "Marquee Feed - Day 3\t vs Palm Harbor, Florida",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141399_english_hls_8d2511b31198793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774204626~_GO=Generated~acl=/mumbai/141399_english_hls_8d2511b31198793_1ta-di_h264/*~Signature=AYUBS8o4jzMW_UI9PwOP9wVmrg9NdAmqFB8v5QXm6CqTZqNdLTXxE435dFQlp44xUiCbK2papGYXc6-DUU_z0b-kffoN",
-      "expire_date": "Monday, March 23, 2026, 12:07:06 AM",
-      "provider": "FanCode"
-    },
-    {
       "match_id": 141042,
       "title": "World Feed",
       "tournament": "ATP Masters Miami Open 2026",
@@ -141,8 +128,8 @@
       "startTime": "21 March 2026 10:30 PM",
       "teams": "A Court Feed vs Miami, United States",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774198687~_GO=Generated~acl=/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h264/*~Signature=AYUBS8q6M_ntEmGn5glrBhjlDB6EeFuvKvCK3IS72N-Hd7SZRofSg40Ik8dlJEdYP7R6HNN2oNHo3mrAMoh648WNIw8J",
-      "expire_date": "Sunday, March 22, 2026, 10:28:07 PM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774213506~_GO=Generated~acl=/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h264/*~Signature=AYUBS8rPIXchzykd1a9E00ykjmXCak4zGxcRAQWueXcWb29uqnSA0hoiGhEFZeCn3DApgf5z3hstNjrgXJHOrLVvv-kJ",
+      "expire_date": "Monday, March 23, 2026, 2:35:06 AM",
       "provider": "FanCode"
     },
     {
