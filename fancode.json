@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 16:20:17 UTC",
-  "total_matches": 15,
+  "last_updated": "2026-03-21 16:30:17 UTC",
+  "total_matches": 13,
   "matches": [
     {
       "match_id": 140957,
@@ -169,32 +169,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141466_english_hls_1ee0c97b0d62102_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774191166~_GO=Generated~acl=/mumbai/141466_english_hls_1ee0c97b0d62102_1ta-di_h264/*~Signature=AYUBS8pqVPLnpqmRQHwOwkBmLeB5Y83m01OD79g-tu2yl51f6J8d15aOumi8dBUcpuY272qQAZRslwhenMlH7DxYOVsH",
       "expire_date": "Sunday, March 22, 2026, 8:22:46 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140470,
-      "title": "Kerala Blasters Fc Vs Punjab Fc",
-      "tournament": "ISL 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "21 March 2026 07:30 PM",
-      "teams": "Kerala Blasters FC vs Punjab FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140470_english_hls_d0d6a822c193188_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774187045~_GO=Generated~acl=/mumbai/140470_english_hls_d0d6a822c193188_1ta-di_h264/*~Signature=AYUBS8pkS8h6w06M2teervUhOYG-TgFs-7CkguZa8SRWNHMI8u6u_VOVKQ2PVqEnOGRURnDBUCyBjjkdpo3BfFtcFqsF",
-      "expire_date": "Sunday, March 22, 2026, 7:14:05 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140470,
-      "title": "Kerala Blasters Fc Vs Punjab Fc",
-      "tournament": "ISL 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "21 March 2026 07:30 PM",
-      "teams": "Kerala Blasters FC vs Punjab FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140470_5956_KBFC_PFC_FC-Web_1772452110923.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140470_bengali_hls_f4713e94e999245_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774187049~_GO=Generated~acl=/mumbai/140470_bengali_hls_f4713e94e999245_1ta-di_h264/*~Signature=AYUBS8rBmhPO80vUV-k64-LvYs-Dilh2B-PywyHv4VwvS2tEDdy0HTBQ89EJQjeWLmQq_ul7sf82IPVrJhK0kxp5yGAM",
-      "expire_date": "Sunday, March 22, 2026, 7:14:09 PM",
       "provider": "FanCode"
     }
   ]
