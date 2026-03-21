@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 19:20:17 UTC",
+  "last_updated": "2026-03-21 19:30:17 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772437592337634_BLIGA_26_MD28_Dortmund-vs-Hamburger-SV_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774163418~acl=/*~id=32647699506231697789154113683725~hmac=d10d9654fb67c011dcef0d5ff837f81e59211a3ddf710bb5772b56deac1a4b70",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774164023~acl=/*~id=64866152811651898675382026227190~hmac=106fb0c413e3717562cb82b5f227e103b457a5faf5c829ac37874ba9231d6ba4",
       "provider": "SonyLIV"
     }
   ]
