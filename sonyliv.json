@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 19:40:19 UTC",
-  "total_matches": 5,
+  "last_updated": "2026-03-21 19:48:33 UTC",
+  "total_matches": 4,
   "matches": [
     {
       "contentId": "1090507348_ENG",
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774164629~acl=/*~id=17921104265098788356380042772037~hmac=9a0b5d4b89ee0f5281b9d9166bb73b3f299159a093269ddaeba8aad20cda91f1",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774165238~acl=/*~id=70687891700665123585828334577315~hmac=e6c5a88176364bdfa9574c20faad8716339cf8f61153577e91985b940aeb2741",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774164629~acl=/*~id=17921104265098788356380042772037~hmac=9a0b5d4b89ee0f5281b9d9166bb73b3f299159a093269ddaeba8aad20cda91f1",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774165238~acl=/*~id=70687891700665123585828334577315~hmac=e6c5a88176364bdfa9574c20faad8716339cf8f61153577e91985b940aeb2741",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774164629~acl=/*~id=17921104265098788356380042772037~hmac=9a0b5d4b89ee0f5281b9d9166bb73b3f299159a093269ddaeba8aad20cda91f1",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774165238~acl=/*~id=70687891700665123585828334577315~hmac=e6c5a88176364bdfa9574c20faad8716339cf8f61153577e91985b940aeb2741",
       "provider": "SonyLIV"
     },
     {
@@ -43,18 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016385/1773901060572992_UFC_Fight_Night_Evloev_vs_Murphy_landscape_thumbnail.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774164629~acl=/*~id=17921104265098788356380042772037~hmac=9a0b5d4b89ee0f5281b9d9166bb73b3f299159a093269ddaeba8aad20cda91f1",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507338_ENG",
-      "match_name": "Borussia Dortmund vs Hamburger SV - MD 27 - 21 Mar 2026 [ENG]",
-      "event_name": "Bundesliga 2025-26",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772437592337634_BLIGA_26_MD28_Dortmund-vs-Hamburger-SV_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774164629~acl=/*~id=17921104265098788356380042772037~hmac=9a0b5d4b89ee0f5281b9d9166bb73b3f299159a093269ddaeba8aad20cda91f1",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1774165238~acl=/*~id=70687891700665123585828334577315~hmac=e6c5a88176364bdfa9574c20faad8716339cf8f61153577e91985b940aeb2741",
       "provider": "SonyLIV"
     }
   ]
