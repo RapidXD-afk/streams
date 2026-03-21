@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 21:20:15 UTC",
-  "total_matches": 11,
+  "last_updated": "2026-03-21 21:30:19 UTC",
+  "total_matches": 10,
   "matches": [
     {
       "match_id": 131118,
@@ -26,19 +26,6 @@
       "image": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141410_english_hls_346cd8c84c1746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774209067~_GO=Generated~acl=/mumbai/141410_english_hls_346cd8c84c1746_1ta-di_h264/*~Signature=AYUBS8pBhQznYtxegxS54ivpXPOb3ZOrVN_C_VFkoM9lcjxewuC8VKf7LH11zmNW--clpWheUbAsilW5TEgVQUrFTSUJ",
       "expire_date": "Monday, March 23, 2026, 1:21:07 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141398,
-      "title": "Featured Holes   Day 3\t",
-      "tournament": "Valspar Championship 2026",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "21 March 2026 07:00 PM",
-      "teams": "Featured Holes - Day 3\t vs Palm Harbor, Florida",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141398_english_hls_35173c2eb544246_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774213926~_GO=Generated~acl=/mumbai/141398_english_hls_35173c2eb544246_1ta-di_h264/*~Signature=AYUBS8q_VWHEoYnRIRh4LxGFYGuW9ZjL-VWrwaZJMpaZhUVWtI4TG8kvjBPUAxMitQcpXNoj89Ytwlyf1SZQwja72PcP",
-      "expire_date": "Monday, March 23, 2026, 2:42:06 AM",
       "provider": "FanCode"
     },
     {
