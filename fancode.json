@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 20:20:21 UTC",
-  "total_matches": 15,
+  "last_updated": "2026-03-21 20:30:21 UTC",
+  "total_matches": 14,
   "matches": [
     {
       "match_id": 131118,
@@ -50,8 +50,8 @@
       "startTime": "21 March 2026 06:15 PM",
       "teams": "Main Feed - Day 3\t vs Palm Harbor, Florida",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774196347~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8rJd2e0bKDrl9oGq7WtMBxqZvQKgWCd5BhzVgQIecctWDp1UkM0iV36uoa6A-pKG1mpvXRQGj_GGxkKlfyMsz4D",
-      "expire_date": "Sunday, March 22, 2026, 9:49:07 PM",
+      "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774210790~_GO=Generated~acl=/mumbai/141396_english_hls_fe78fb5e5215155_1ta-di_h264/*~Signature=AYUBS8qVAxA9pB7aAWwAi1TDazc5QFpItsvjZR_YEMRHssO-375Gwnx-xz-J9SWPmqpVSCbbsZrDRYJJ2UqejPoXx4YD",
+      "expire_date": "Monday, March 23, 2026, 1:49:50 AM",
       "provider": "FanCode"
     },
     {
@@ -182,19 +182,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774203547~_GO=Generated~acl=/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/*~Signature=AYUBS8q9Nmc4_iSXYMG11qshROGkrKAqp_uAT19q4bssPVbX3xfuFuKaPlA8hAfdwUBCimbo3D1Vu2x4iiVvKWTbJckI",
       "expire_date": "Sunday, March 22, 2026, 11:49:07 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131117,
-      "title": "Levante Vs Real Oviedo",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "21 March 2026 11:00 PM",
-      "teams": "Levante vs Real Oviedo",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774199107~_GO=Generated~acl=/mumbai/131117_english_hls_8b603c489054273_1ta-di_h264/*~Signature=AYUBS8oqzLu0ajwsnZ8n8npv48ejTe5y3OaiYFB-CwVzgg6nbgIiPBc3QPL0MIpP6EPUmXsSt_ecErsm3YX15F83qmUA",
-      "expire_date": "Sunday, March 22, 2026, 10:35:07 PM",
       "provider": "FanCode"
     }
   ]
