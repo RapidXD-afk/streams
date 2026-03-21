@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21 17:54:44 UTC",
-  "total_matches": 17,
+  "last_updated": "2026-03-21 18:00:20 UTC",
+  "total_matches": 16,
   "matches": [
     {
       "match_id": 140958,
@@ -208,19 +208,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141400_english_hls_c331ac49b455066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774201866~_GO=Generated~acl=/mumbai/141400_english_hls_c331ac49b455066_1ta-di_h264/*~Signature=AYUBS8oX_YWY6pGHp0x-IUpJMeZMP__B2tEpom4K7A_6FKq7tXCXXwsfl3qRIERnDh5g7y17Id7PLxgdjM6gbbWMSZEF",
       "expire_date": "Sunday, March 22, 2026, 11:21:06 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131116,
-      "title": "Rcd Espanyol Vs Getafe Cf",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "21 March 2026 08:45 PM",
-      "teams": "RCD Espanyol vs Getafe CF",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131116_5427_ESL_GEF_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131116_english_hls_052dd930e615624_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774190658~_GO=Generated~acl=/mumbai/131116_english_hls_052dd930e615624_1ta-di_h264/*~Signature=AYUBS8otWK9a7_HQbymCvWvqOdH09obCJA3SHJCKh_7jpG_AdRlCjz0fhaMObCMKR4h_xNtmtmBMiKEQaSZhFw8CWBcN",
-      "expire_date": "Sunday, March 22, 2026, 8:14:18 PM",
       "provider": "FanCode"
     }
   ]
