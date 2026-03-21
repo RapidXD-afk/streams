@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-21 11:50:19 UTC",
-  "total_matches": 9,
+  "last_updated": "2026-03-21 12:00:22 UTC",
+  "total_matches": 6,
   "matches": [
-    {
-      "match_id": 141336,
-      "title": "Ahmedabad Lions Vs Chandigarh Mavericks",
-      "tournament": "Actors Cricket Bash 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "21 March 2026 02:30 PM",
-      "teams": "Ahmedabad Lions vs Chandigarh Mavericks",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_CMA_fc-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141336_english_hls_3ad8a8cf3840667_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774175172~_GO=Generated~acl=/mumbai/141336_english_hls_3ad8a8cf3840667_1ta-di_h264/*~Signature=AYUBS8qL8tiaR0tntElBVZiiCQ_dFr-Rtzcw06tQtoPO8D8M2ceRb2zRrPi2v661_avgotaKhJgt7wfpwPtduK759owK",
-      "expire_date": "Sunday, March 22, 2026, 3:56:12 PM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141448,
       "title": "Namibia Vs Uganda",
@@ -24,8 +11,21 @@
       "startTime": "21 March 2026 05:30 PM",
       "teams": "Namibia vs Uganda",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774093781~_GO=Generated~acl=/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/*~Signature=AYUBS8qGVCQiFUKQaKvlyY1QxkZ8aIyZxUPHliMx8D7qECpYxk-qhl4NGsGxjfmWMOfKk6DakXJDpHCbyFQDA7682C0C",
-      "expire_date": "Saturday, March 21, 2026, 5:19:41 PM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774180272~_GO=Generated~acl=/mumbai/141448_english_hls_8b8f07e67416346_1ta-di_h264/*~Signature=AYUBS8qB4YFwbGAVLqhlvo-9KbgOWwCV3gQ35KyNEAzj78H47lqqjv1yph6yOVY_fMGzkEv_kJAOzLj3_FVChcsmXxwA",
+      "expire_date": "Sunday, March 22, 2026, 5:21:12 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 141159,
+      "title": "Arsenal Women Vs West Ham United Women",
+      "tournament": "Women's Super League 2025-26",
+      "category": "Football",
+      "status": "NOT_STARTED",
+      "startTime": "21 March 2026 05:30 PM",
+      "teams": "Arsenal Women vs West Ham United Women",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141159_english_hls_7ed64a797f47785_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774180275~_GO=Generated~acl=/mumbai/141159_english_hls_7ed64a797f47785_1ta-di_h264/*~Signature=AYUBS8qR2qm4Mln8At8MC9Oi1Op13RLh_EZ1_pXbGUtj_StE6oemoU91ZA2Ad4GjxTpvE7Av6remwLPl3IQhgsMkBUoK",
+      "expire_date": "Sunday, March 22, 2026, 5:21:15 PM",
       "provider": "FanCode"
     },
     {
@@ -39,58 +39,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141158_english_hls_571f5b64f632081_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179857~_GO=Generated~acl=/mumbai/141158_english_hls_571f5b64f632081_1ta-di_h264/*~Signature=AYUBS8q5MjQkY6fu5NzfCWAM5tNPFzFHgdgFf0H2w1uLJoHHDB1JVJX_IXu1frX1AkawRog1h6Uj990iQflUo2444ecB",
       "expire_date": "Sunday, March 22, 2026, 5:14:17 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140820,
-      "title": "Japan Women Vs Australia Women",
-      "tournament": "AFC Women's Asian Cup, 2026",
-      "category": "Football",
-      "status": "LIVE",
-      "startTime": "21 March 2026 02:30 PM",
-      "teams": "Japan Women vs Australia Women",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140820_english_hls_893c3c4ff563583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774175176~_GO=Generated~acl=/mumbai/140820_english_hls_893c3c4ff563583_1ta-di_h264/*~Signature=AYUBS8phkVH2Ujx4wJ7OENe_qsjOYhGPkB--iW_9K2k9aTRgaTVNf2jCnt3XG-cmk5m2iihN15j4rR7Ce9RqEWJSf-cN",
-      "expire_date": "Sunday, March 22, 2026, 3:56:16 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 139928,
-      "title": "Brazil Gp",
-      "tournament": "ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026",
-      "category": "MotoGP",
-      "status": "LIVE",
-      "startTime": "21 March 2026 05:10 PM",
-      "teams": "Day 2 vs Aut\u00f3dromo Internacional de Goi\u00e2nia \u2013 Ayrton Senna",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
-      "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179041~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qDnbJCTlgNbqR5Yj1UkAJj9yejEL3I3TvL7HkTQEo-UwcqBHQr0skZ6_LnVqjK_DiP41g3v1FULIWs0e9dHeEF",
-      "expire_date": "Sunday, March 22, 2026, 5:00:41 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141375,
-      "title": "Betwa Blasters Vs Manorama Marvels",
-      "tournament": "Ayodhya Premier League",
-      "category": "Cricket",
-      "status": "COMPLETED",
-      "startTime": "21 March 2026 01:30 PM",
-      "teams": "Betwa Blasters vs Manorama Marvels",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141375_english_hls_2dc27512fe19726_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774175169~_GO=Generated~acl=/mumbai/141375_english_hls_2dc27512fe19726_1ta-di_h264/*~Signature=AYUBS8qrfAx94kn3GNQT-HE-nBz-K2Ql0pVW7g19bpMPGBVVvlTj9QBlRwOqOp8o4SriHSoWTcjbNv-L9_EU-vN5ejwJ",
-      "expire_date": "Sunday, March 22, 2026, 3:56:09 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141159,
-      "title": "Arsenal Women Vs West Ham United Women",
-      "tournament": "Women's Super League 2025-26",
-      "category": "Football",
-      "status": "NOT_STARTED",
-      "startTime": "21 March 2026 05:30 PM",
-      "teams": "Arsenal Women vs West Ham United Women",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141159_english_hls_7ed64a797f47785_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774093812~_GO=Generated~acl=/mumbai/141159_english_hls_7ed64a797f47785_1ta-di_h264/*~Signature=AYUBS8qrtczY5WVHTI0cAWnaRl6gYuUbJroFwciyU0wHp4HVDc540RebHTHErfFXe8AL1fwxGXyrEoQcMs6cHiE9Y10B",
-      "expire_date": "Saturday, March 21, 2026, 5:20:12 PM",
       "provider": "FanCode"
     },
     {
@@ -115,8 +63,21 @@
       "startTime": "21 March 2026 05:30 PM",
       "teams": "Manchester United Women vs Everton Women",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141156_english_hls_e8d86d7d3470088_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774093821~_GO=Generated~acl=/mumbai/141156_english_hls_e8d86d7d3470088_1ta-di_h264/*~Signature=AYUBS8qBc7s6ZYzGuRoCsY0dbl07RY_Iiwt_sYceCADKtnbLQFoRmSknKuMMU9QxZXSJgXnmiKzWOh2ev5iAcMPkLMUA",
-      "expire_date": "Saturday, March 21, 2026, 5:20:21 PM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141156_english_hls_e8d86d7d3470088_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774180277~_GO=Generated~acl=/mumbai/141156_english_hls_e8d86d7d3470088_1ta-di_h264/*~Signature=AYUBS8rHFIA4GNm9tULRXWzVrXabsxfqa6ze-8dJKc6UG84KFrdS0QWoG89xnhiCI_wsZNe0caFAnjDH4pevV00fswUB",
+      "expire_date": "Sunday, March 22, 2026, 5:21:17 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 139928,
+      "title": "Brazil Gp",
+      "tournament": "ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026",
+      "category": "MotoGP",
+      "status": "LIVE",
+      "startTime": "21 March 2026 05:10 PM",
+      "teams": "Day 2 vs Aut\u00f3dromo Internacional de Goi\u00e2nia \u2013 Ayrton Senna",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
+      "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774179041~_GO=Generated~acl=/mumbai/139928_english_hls_c7b64802b377809_1ta-di_h264/*~Signature=AYUBS8qDnbJCTlgNbqR5Yj1UkAJj9yejEL3I3TvL7HkTQEo-UwcqBHQr0skZ6_LnVqjK_DiP41g3v1FULIWs0e9dHeEF",
+      "expire_date": "Sunday, March 22, 2026, 5:00:41 PM",
       "provider": "FanCode"
     }
   ]
