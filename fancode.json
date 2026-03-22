@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22 21:50:15 UTC",
-  "total_matches": 10,
+  "last_updated": "2026-03-22 21:53:50 UTC",
+  "total_matches": 9,
   "matches": [
     {
       "match_id": 131110,
@@ -26,19 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131110_bengali_hls_67cfc570bc49818_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774301411~_GO=Generated~acl=/mumbai/131110_bengali_hls_67cfc570bc49818_1ta-di_h264/*~Signature=AYUBS8p6PjTxSCTu6p0XFU9G4MOi_ps74zZWDIaKvZqXpL9FeNNWCJi1KT5yJlJGDWSu-q5-vl7jk7TbttAuGF5vBbYD",
       "expire_date": "Tuesday, March 24, 2026, 3:00:11 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141403,
-      "title": "Featured Groups   Day 4\t",
-      "tournament": "Valspar Championship 2026",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "22 March 2026 07:00 PM",
-      "teams": "Featured Groups - Day 4\t vs Palm Harbor, Florida",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141403_english_hls_d1fcc4042738409_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774301413~_GO=Generated~acl=/mumbai/141403_english_hls_d1fcc4042738409_1ta-di_h264/*~Signature=AYUBS8rumnWBrwBNCZaJcK6ZzS6tsx2aAn_qUm3xJXEBPN1n1oum7gCExFXtOP-uFAcfrI70z6KUXa7PM2GUjUnK5I4B",
-      "expire_date": "Tuesday, March 24, 2026, 3:00:13 AM",
       "provider": "FanCode"
     },
     {
