@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22 22:10:16 UTC",
-  "total_matches": 8,
+  "last_updated": "2026-03-22 22:20:16 UTC",
+  "total_matches": 6,
   "matches": [
     {
       "match_id": 141044,
@@ -78,32 +78,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141473_english_hls_f33d784f8287170_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774301441~_GO=Generated~acl=/mumbai/141473_english_hls_f33d784f8287170_1ta-di_h264/*~Signature=AYUBS8o08rjODwHbP9i22HfB5h9KUAAeYFVlr5SXQ4acfmiQW7QBG64Dk_KCrUbuI1GPblXY4op8PzpXx8ji2Wud8nMP",
       "expire_date": "Tuesday, March 24, 2026, 3:00:41 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131110,
-      "title": "Real Madrid Vs Atletico De Madrid",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "23 March 2026 01:30 AM",
-      "teams": "Real Madrid vs Atletico de Madrid",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131110_english_hls_1705ba7f8e77418_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774301408~_GO=Generated~acl=/mumbai/131110_english_hls_1705ba7f8e77418_1ta-di_h264/*~Signature=AYUBS8rK44y3y_czbsg81l06dMGAvXELImDw4tnFpCzI96Qm1_6ncVu3NIByE7uCGnN1bGtCLEiXU2cip_g-y9F3wMgL",
-      "expire_date": "Tuesday, March 24, 2026, 3:00:08 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 131110,
-      "title": "Real Madrid Vs Atletico De Madrid",
-      "tournament": "LALIGA 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "23 March 2026 01:30 AM",
-      "teams": "Real Madrid vs Atletico de Madrid",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/131110_bengali_hls_67cfc570bc49818_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774301411~_GO=Generated~acl=/mumbai/131110_bengali_hls_67cfc570bc49818_1ta-di_h264/*~Signature=AYUBS8p6PjTxSCTu6p0XFU9G4MOi_ps74zZWDIaKvZqXpL9FeNNWCJi1KT5yJlJGDWSu-q5-vl7jk7TbttAuGF5vBbYD",
-      "expire_date": "Tuesday, March 24, 2026, 3:00:11 AM",
       "provider": "FanCode"
     }
   ]
