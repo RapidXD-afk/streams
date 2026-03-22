@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-22 09:40:16 UTC",
+  "last_updated": "2026-03-22 09:50:16 UTC",
   "total_matches": 4,
   "matches": [
-    {
-      "match_id": 141064,
-      "title": "South Africa Vs New Zealand",
-      "tournament": "South Africa tour of New Zealand, 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "22 March 2026 11:45 AM",
-      "teams": "South Africa vs New Zealand",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-      "stream_1080p": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774253110~acl=%2f*~id=6daf2318-d850-4de2-b4cf-a8c86abe6f75~data=hdntl~hmac=9837afb5b6d887235a362edaa6bf24ca749919c2c65666cf0ae573aa329303db/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAA29MBpAAAAAH2V1A5xcBoXQRIzKzOfZCFW+BMCp6q1QjeZPC+2imGezLWlICuOdNfHMk%2fQxmVlhos+fsKOmS%2fM&aka_media_format_type=hls",
-      "expire_date": "Monday, March 23, 2026, 1:35:10 PM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141377,
       "title": "Manorama Marvels Vs Chambal Chargers",
@@ -52,6 +39,19 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140922_english_hls_ebe8ac262c55184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774253528~_GO=Generated~acl=/mumbai/140922_english_hls_ebe8ac262c55184_1ta-di_h264/*~Signature=AYUBS8rwtpYqVEHyeEs-1EUNITvJqAXUsWLXasyKtPnkRkPYU-LHIjVPMGRhdx_Svs28V0TBPHcPb9beXS7HB4EQEAML",
       "expire_date": "Monday, March 23, 2026, 1:42:08 PM",
+      "provider": "FanCode"
+    },
+    {
+      "match_id": 141064,
+      "title": "South Africa Vs New Zealand",
+      "tournament": "South Africa tour of New Zealand, 2026",
+      "category": "Cricket",
+      "status": "COMPLETED",
+      "startTime": "22 March 2026 11:45 AM",
+      "teams": "South Africa vs New Zealand",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
+      "stream_1080p": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/hdntl=exp=1774253110~acl=%2f*~id=6daf2318-d850-4de2-b4cf-a8c86abe6f75~data=hdntl~hmac=9837afb5b6d887235a362edaa6bf24ca749919c2c65666cf0ae573aa329303db/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAA29MBpAAAAAH2V1A5xcBoXQRIzKzOfZCFW+BMCp6q1QjeZPC+2imGezLWlICuOdNfHMk%2fQxmVlhos+fsKOmS%2fM&aka_media_format_type=hls",
+      "expire_date": "Monday, March 23, 2026, 1:35:10 PM",
       "provider": "FanCode"
     }
   ]
