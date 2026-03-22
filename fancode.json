@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22 16:10:16 UTC",
-  "total_matches": 13,
+  "last_updated": "2026-03-22 16:20:15 UTC",
+  "total_matches": 11,
   "matches": [
     {
       "match_id": 141161,
@@ -143,32 +143,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141472_english_hls_5b29c0169979913_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774280647~_GO=Generated~acl=/mumbai/141472_english_hls_5b29c0169979913_1ta-di_h264/*~Signature=AYUBS8rMTDHnRlEeGRNJJUfUVkFT1GHh-KCqywgpBb003VcS5sZFHazBcPdH4B7KHGjlt82c6s7cNp8ZXaUMBdJGvwcI",
       "expire_date": "Monday, March 23, 2026, 9:14:07 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140472,
-      "title": "Inter Kashi Fc Vs Bengaluru Fc",
-      "tournament": "ISL 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "22 March 2026 07:30 PM",
-      "teams": "Inter Kashi FC vs Bengaluru FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140472_english_hls_8dee1733f329921_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774277471~_GO=Generated~acl=/mumbai/140472_english_hls_8dee1733f329921_1ta-di_h264/*~Signature=AYUBS8pizC6wgwuUuOtpLDndC2qhZETbIZQGA0DkfpXHnBmDN7AfFRi619K5fbvArv_tdoO1cJ_0XbnipnSFrmf2fDYM",
-      "expire_date": "Monday, March 23, 2026, 8:21:11 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 140472,
-      "title": "Inter Kashi Fc Vs Bengaluru Fc",
-      "tournament": "ISL 2025-26",
-      "category": "Football",
-      "status": "COMPLETED",
-      "startTime": "22 March 2026 07:30 PM",
-      "teams": "Inter Kashi FC vs Bengaluru FC",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140472_5956_KSHI_BFC_FC-Web_1772452359219.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/140472_bengali_hls_93a0a3904f95935_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774277474~_GO=Generated~acl=/mumbai/140472_bengali_hls_93a0a3904f95935_1ta-di_h264/*~Signature=AYUBS8qjPzdpExVaQlnxq2mvkPD6mBXAKxZx_YVVUy3nUnLjwfQaMC1VrBa7kPAYmKwnh2CD-Bpc5ln4mXA2c1jtoEUI",
-      "expire_date": "Monday, March 23, 2026, 8:21:14 PM",
       "provider": "FanCode"
     }
   ]
