@@ -1,27 +1,16 @@
 {
-  "last_updated": "2026-03-22 09:30:19 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-15 08:24:02 UTC",
+  "total_matches": 1,
   "matches": [
     {
-      "contentId": "1090507361_ENG",
-      "match_name": "4th T20I - 22 Mar 2026 [ENG]",
+      "contentId": "1090506678_ENG",
+      "match_name": " 1st T20I - 15 Mar 2026 [ENG]",
       "event_name": "South Africa Tour of New Zealand 2026",
       "category": "Cricket",
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 5",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016421/1773970017958830_NZvsSA26_4thT20I_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774214987~acl=/*~id=48768189869343565266747747348161~hmac=a6ebe26f615b849e4e208a4410743e7889a4c6013399632f335e11fde4657c40",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507238_ENG",
-      "match_name": "Day 4 - 22 Mar 2026 [ENG]",
-      "event_name": "LIV Golf",
-      "category": "Golf",
-      "isLive": true,
-      "broadcast_channel": "LIV",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016394/1773922645704180_Golf_SA_Day4_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774214987~acl=/*~id=48768189869343565266747747348161~hmac=a6ebe26f615b849e4e208a4410743e7889a4c6013399632f335e11fde4657c40",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016172/177342651465599_NZvsSA26_1t20i_13mar_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773605744~acl=/*~id=77361165377660621912439122521227~hmac=a3892a82abb09747876fe2de7f82d7f8187626b469e710104c75ebadb0322fa2",
       "provider": "SonyLIV"
     }
   ]
