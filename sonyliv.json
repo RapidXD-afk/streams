@@ -1,17 +1,5 @@
 {
-  "last_updated": "2026-03-22 20:30:19 UTC",
-  "total_matches": 1,
-  "matches": [
-    {
-      "contentId": "1090507363_ENG",
-      "match_name": "FC Augsburg vs VfB Stuttgart - MD 27 - 23 Mar 2026 [ENG]",
-      "event_name": "Bundesliga 2025-26",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772449746744634_BLIGA_26_MD28_Augsburg-vs-VfB-Stuttgart_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774254406~acl=/*~id=72859638593231157364076443788538~hmac=46c53c84d6703003fbd48f61ac9f1b1b0b28cae5a29d4f628e74c6731dd5ac10",
-      "provider": "SonyLIV"
-    }
-  ]
+  "last_updated": "2026-03-22 20:40:32 UTC",
+  "total_matches": 0,
+  "matches": []
 }
