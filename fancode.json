@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22 02:10:17 UTC",
-  "total_matches": 6,
+  "last_updated": "2026-03-22 02:20:17 UTC",
+  "total_matches": 5,
   "matches": [
     {
       "match_id": 141069,
@@ -52,19 +52,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774228776~_GO=Generated~acl=/mumbai/141041_english_hls_f8c48ccdd719819_1ta-di_h264/*~Signature=AYUBS8r3tjD-2wYJARumye2iEW0c2PYupAJ0GT1c1r6Lwn9JAVSs0qTTIznmjRrueibtYJihrC8EBjYhzlvOfxSnSWAP",
       "expire_date": "Monday, March 23, 2026, 6:49:36 AM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141470,
-      "title": "C Court Feed",
-      "tournament": "ATP Masters Miami Open 2026",
-      "category": "Tennis",
-      "status": "LIVE",
-      "startTime": "22 March 2026 12:00 AM",
-      "teams": "C Court Feed vs Miami, United States",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-      "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774228783~_GO=Generated~acl=/mumbai/141470_english_hls_4dd958ac9241482_1ta-di_h264/*~Signature=AYUBS8pRxs_4nZy0DZtCptRbDa4RGMR2JP8c9PYcmgOdpjazrBeTGx0E-RG7yBMw_dJN-vFrK9OZXbEwYP9qhvGUHNcD",
-      "expire_date": "Monday, March 23, 2026, 6:49:43 AM",
       "provider": "FanCode"
     },
     {
