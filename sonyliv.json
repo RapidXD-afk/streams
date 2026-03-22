@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 08:40:18 UTC",
+  "last_updated": "2026-03-22 08:50:18 UTC",
   "total_matches": 2,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 5",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016421/1773970017958830_NZvsSA26_4thT20I_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774211930~acl=/*~id=62027337547355834568643996973779~hmac=f90ee2dfc2baee75af3dfdcb2789edb020d2ee132f82a69bc2598d6790d6cd3b",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774212539~acl=/*~id=36369672541308915684732645998017~hmac=50a2c1f4d3349e428f4aa4fab4acd7fa06fdf78653c8f020fb82431a173a4163",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "LIV",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016394/1773922645704180_Golf_SA_Day4_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774211930~acl=/*~id=62027337547355834568643996973779~hmac=f90ee2dfc2baee75af3dfdcb2789edb020d2ee132f82a69bc2598d6790d6cd3b",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774212539~acl=/*~id=36369672541308915684732645998017~hmac=50a2c1f4d3349e428f4aa4fab4acd7fa06fdf78653c8f020fb82431a173a4163",
       "provider": "SonyLIV"
     }
   ]
