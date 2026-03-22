@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 11:30:18 UTC",
+  "last_updated": "2026-03-22 11:40:16 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "LIV",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016394/1773922645704180_Golf_SA_Day4_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774221661~acl=/*~id=13507807265322723330082925479975~hmac=af1f95e8476ba4e298dc6f4469496a29e9baa992105047def4758fb089daf609",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774222267~acl=/*~id=82207233787292520684956474174257~hmac=a52895e3da6aa892cb6d606e566244546d5dd958fbb9e10fd39dcc570d09f5a4",
       "provider": "SonyLIV"
     }
   ]
