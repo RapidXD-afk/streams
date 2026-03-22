@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22 15:52:18 UTC",
-  "total_matches": 14,
+  "last_updated": "2026-03-22 16:00:20 UTC",
+  "total_matches": 13,
   "matches": [
     {
       "match_id": 140472,
@@ -117,19 +117,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
       "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141402_english_hls_58309b0f0e30679_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774277505~_GO=Generated~acl=/mumbai/141402_english_hls_58309b0f0e30679_1ta-di_h264/*~Signature=AYUBS8rTPUICplgs6yke4i8LUzEkCuirKwjtmPBsgSzbqFSpfOrUUk85UDtw33T5YsgSNH3mI9-7nNvc6T3jVAzqBEMM",
       "expire_date": "Monday, March 23, 2026, 8:21:45 PM",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": 141445,
-      "title": "Day 3",
-      "tournament": "JSW Indian Open 2026",
-      "category": "Live Events",
-      "status": "LIVE",
-      "startTime": "22 March 2026 07:00 PM",
-      "teams": "Day 3 vs CCI Brabourne Stadium",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png",
-      "stream_1080p": "https://in-mc-plive.fancode.com/mumbai/141445_english_hls_519b8b21514089_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774277511~_GO=Generated~acl=/mumbai/141445_english_hls_519b8b21514089_1ta-di_h264/*~Signature=AYUBS8q5ni5xWqyhZpNeflnV7DtAkL02fyBrAStL0B6GzudKiQPIOQNVg0klGm0Mx5MgBaV8cofgutMTQBSzzUvifNAO",
-      "expire_date": "Monday, March 23, 2026, 8:21:51 PM",
       "provider": "FanCode"
     },
     {
