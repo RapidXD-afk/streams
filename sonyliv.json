@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 14:30:19 UTC",
+  "last_updated": "2026-03-22 14:40:18 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772448876155634_BLIGA_26_MD28_Mainz-vs-Eintracht-Frankfurt_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI04-M5/std_lrh-800300010.m3u8?hdnea=exp=1774232581~acl=/*~id=21737533365829296939265740734541~hmac=d8006ddefb9d23200e85a2b5ae9c695a27869b9c140956b1529a8c6c34742903",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI04-M5/std_lrh-800300010.m3u8?hdnea=exp=1774233188~acl=/*~id=09589613237246473228897256249877~hmac=c7135cbfbc8ac589f2c5ca98f28961c2be518cd8a04393712daa8ff153bbf470",
       "provider": "SonyLIV"
     }
   ]
