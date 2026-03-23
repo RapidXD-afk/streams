@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-23 09:04:48 UTC",
-  "total_matches": 4,
+  "last_updated": "2026-03-23 09:10:19 UTC",
+  "total_matches": 3,
   "matches": [
-    {
-      "match_id": 141341,
-      "title": "Chennai Marvels Vs Chandigarh Mavericks",
-      "tournament": "Actors Cricket Bash 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "23 March 2026 11:45 AM",
-      "teams": "Chennai Marvels vs Chandigarh Mavericks",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141341_6005_CML_CMA_fc-Web_1773994359697.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141341_english_hls_463c32e62f51427_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774332311~_GO=Generated~acl=/mumbai/141341_english_hls_463c32e62f51427_1ta-di_h264/*~Signature=AYUBS8opCzbX1-LHgBCwVOzXQbEg9IoD_9vsV0Qp1qTo8Wc_GPrkhoIwxPtpSGJW62EtDA6RXku23iRC1zodE9x4qZYB",
-      "expire_date": "Tuesday, March 24, 2026, 11:35:11 AM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141449,
       "title": "Namibia Vs Uganda",
