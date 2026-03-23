@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-03-23 06:10:19 UTC",
-  "total_matches": 3,
+  "last_updated": "2026-03-23 06:20:27 UTC",
+  "total_matches": 2,
   "matches": [
-    {
-      "match_id": 141340,
-      "title": "Mumbai Aces Vs Jaipur Royals",
-      "tournament": "Actors Cricket Bash 2026",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "23 March 2026 09:00 AM",
-      "teams": "Mumbai Aces vs Jaipur Royals",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD",
-      "expire_date": "Tuesday, March 24, 2026, 9:56:05 AM",
-      "provider": "FanCode"
-    },
     {
       "match_id": 141378,
       "title": "Yamuna Super Kings Vs Saryu Smashers",
