@@ -1,27 +1,16 @@
 {
-  "last_updated": "2026-03-25 14:50:18 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-15 08:24:02 UTC",
+  "total_matches": 1,
   "matches": [
     {
-      "contentId": "1090507376_ENG",
-      "match_name": "Sreenidi Deccan FC vs Dempo Sports Club - 25 Mar 2026 [ENG]",
-      "event_name": "Indian Football League 2026",
-      "category": "Football",
+      "contentId": "1090506678_ENG",
+      "match_name": " 1st T20I - 15 Mar 2026 [ENG]",
+      "event_name": "South Africa Tour of New Zealand 2026",
+      "category": "Cricket",
       "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741596232086_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774493317~acl=/*~id=93399200791209073999367832739579~hmac=40fab5e5843ab4c1f3a2f8ad2352d7e61bfc26d328a665cbb2bddcc2486f25a6",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507599_ENG",
-      "match_name": "Bhutan vs Tajikistan - 25 Mar 2026 [ENG]",
-      "event_name": "U23 Tri-Nation Championship 2026",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016574/1774436585729185_U23_Tri_Nation_Champ26_Bhutan_vs_Tajikistan_25mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774493317~acl=/*~id=93399200791209073999367832739579~hmac=40fab5e5843ab4c1f3a2f8ad2352d7e61bfc26d328a665cbb2bddcc2486f25a6",
+      "broadcast_channel": "Sony Sports Ten 5",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016172/177342651465599_NZvsSA26_1t20i_13mar_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773605744~acl=/*~id=77361165377660621912439122521227~hmac=a3892a82abb09747876fe2de7f82d7f8187626b469e710104c75ebadb0322fa2",
       "provider": "SonyLIV"
     }
   ]
