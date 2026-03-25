@@ -1,17 +1,5 @@
 {
-  "last_updated": "2026-03-25 01:40:24 UTC",
-  "total_matches": 1,
-  "matches": [
-    {
-      "contentId": "1090507367_ENG",
-      "match_name": "5th T20I - 25 Mar 2026 [ENG]",
-      "event_name": "South Africa Women's Tour of New Zealand 2026",
-      "category": "Cricket",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 5",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016423/1773977182498113_NZwvsSAw26_5th_T20I_20mar_landscape.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774445878~acl=/*~id=88201898972896805093623557102253~hmac=a4bf599a880ebe8748ac6c0a9aa51a741f2bf8ab670c195c41cedb62c93c4cd5",
-      "provider": "SonyLIV"
-    }
-  ]
+  "last_updated": "2026-03-25 01:50:19 UTC",
+  "total_matches": 0,
+  "matches": []
 }
