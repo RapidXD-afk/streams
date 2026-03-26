@@ -1,27 +1,16 @@
 {
-  "last_updated": "2026-03-26 22:40:19 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-26 22:50:18 UTC",
+  "total_matches": 1,
   "matches": [
     {
-      "contentId": "1090507666_ENG",
-      "match_name": "Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026 [ENG]",
-      "event_name": "European Qualifiers For 2026 FIFA World Cup",
+      "contentId": "1090507670_ENG",
+      "match_name": "Croatia vs Colombia - 27 Mar 2026 [ENG]",
+      "event_name": "UEFA International Friendlies",
       "category": "Football",
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347355346257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/EQ_Czech2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507644_ENG",
-      "match_name": "Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026 [ENG]",
-      "event_name": "European Qualifiers For 2026 FIFA World Cup",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345776128257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/EQ_Wales2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a",
+      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042943880735_INT_Friendlies26_Croatia_vs_Colombia_20mar_landscape_thumb.jpg",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774608602~acl=/*~id=82421139639226912106782878326074~hmac=7702cd64d27f25e7be0cc9f457ead1ded79febbfa3778befa75440212d791382",
       "provider": "SonyLIV"
     }
   ]
