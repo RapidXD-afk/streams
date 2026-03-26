@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26 17:00:26 UTC",
-  "total_matches": 6,
+  "last_updated": "2026-03-26 17:10:18 UTC",
+  "total_matches": 5,
   "matches": [
     {
       "contentId": "1090507636_ENG",
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/EQ_Turki2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587318~acl=/*~id=12418463523612655387028030997131~hmac=69f561f3b9469f41efca2598ad6c51af8fe3d411b92b89e365f1a130b3cd2da8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/EQ_Turki2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587926~acl=/*~id=40861388261478942907048161249690~hmac=9d12a07d33383d0a866f6013bfb7f4fb030cb1e26fdcc26eb654d339181663f3",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344388037677_UNL_Malta_vs_Luxembourg_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/UNL_Malt2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587318~acl=/*~id=12418463523612655387028030997131~hmac=69f561f3b9469f41efca2598ad6c51af8fe3d411b92b89e365f1a130b3cd2da8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/UNL_Malt2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587926~acl=/*~id=40861388261478942907048161249690~hmac=9d12a07d33383d0a866f6013bfb7f4fb030cb1e26fdcc26eb654d339181663f3",
       "provider": "SonyLIV"
     },
     {
@@ -32,18 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Gibralta2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587318~acl=/*~id=12418463523612655387028030997131~hmac=69f561f3b9469f41efca2598ad6c51af8fe3d411b92b89e365f1a130b3cd2da8",
-      "provider": "SonyLIV"
-    },
-    {
-      "contentId": "1090507434_ENG",
-      "match_name": "Moldova vs Lithuania - 26 Mar 2026 [ENG]",
-      "event_name": "UEFA International Friendlies",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774018662876959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Moldova_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587318~acl=/*~id=12418463523612655387028030997131~hmac=69f561f3b9469f41efca2598ad6c51af8fe3d411b92b89e365f1a130b3cd2da8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Gibralta2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587926~acl=/*~id=40861388261478942907048161249690~hmac=9d12a07d33383d0a866f6013bfb7f4fb030cb1e26fdcc26eb654d339181663f3",
       "provider": "SonyLIV"
     },
     {
@@ -54,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Cyprus_v2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587318~acl=/*~id=12418463523612655387028030997131~hmac=69f561f3b9469f41efca2598ad6c51af8fe3d411b92b89e365f1a130b3cd2da8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Cyprus_v2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587926~acl=/*~id=40861388261478942907048161249690~hmac=9d12a07d33383d0a866f6013bfb7f4fb030cb1e26fdcc26eb654d339181663f3",
       "provider": "SonyLIV"
     },
     {
@@ -65,7 +54,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774019280227959_INT_Friendlies26_Georgia_vs_Israel_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Georgia_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587318~acl=/*~id=12418463523612655387028030997131~hmac=69f561f3b9469f41efca2598ad6c51af8fe3d411b92b89e365f1a130b3cd2da8",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Georgia_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774587926~acl=/*~id=40861388261478942907048161249690~hmac=9d12a07d33383d0a866f6013bfb7f4fb030cb1e26fdcc26eb654d339181663f3",
       "provider": "SonyLIV"
     }
   ]
