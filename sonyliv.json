@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 18:20:23 UTC",
+  "last_updated": "2026-03-26 18:30:29 UTC",
   "total_matches": 5,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/EQ_Turki2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592181~acl=/*~id=95198767765750385880289271463018~hmac=28afbc2d29a4a60ab9b67546142a8251c64a483f3693e3373af7c7509a619d86",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/EQ_Turki2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592788~acl=/*~id=62020010081953731928437915194177~hmac=ef57841840e9d51e7a6c8eaacf82c1c5e2a55ad394d250885095cb80ecfea18a",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344388037677_UNL_Malta_vs_Luxembourg_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/UNL_Malt2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592181~acl=/*~id=95198767765750385880289271463018~hmac=28afbc2d29a4a60ab9b67546142a8251c64a483f3693e3373af7c7509a619d86",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/UNL_Malt2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592788~acl=/*~id=62020010081953731928437915194177~hmac=ef57841840e9d51e7a6c8eaacf82c1c5e2a55ad394d250885095cb80ecfea18a",
       "provider": "SonyLIV"
     },
     {
@@ -32,7 +32,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Gibralta2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592181~acl=/*~id=95198767765750385880289271463018~hmac=28afbc2d29a4a60ab9b67546142a8251c64a483f3693e3373af7c7509a619d86",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Gibralta2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592788~acl=/*~id=62020010081953731928437915194177~hmac=ef57841840e9d51e7a6c8eaacf82c1c5e2a55ad394d250885095cb80ecfea18a",
       "provider": "SonyLIV"
     },
     {
@@ -43,7 +43,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Cyprus_v2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592181~acl=/*~id=95198767765750385880289271463018~hmac=28afbc2d29a4a60ab9b67546142a8251c64a483f3693e3373af7c7509a619d86",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Cyprus_v2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592788~acl=/*~id=62020010081953731928437915194177~hmac=ef57841840e9d51e7a6c8eaacf82c1c5e2a55ad394d250885095cb80ecfea18a",
       "provider": "SonyLIV"
     },
     {
@@ -54,7 +54,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774019280227959_INT_Friendlies26_Georgia_vs_Israel_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Georgia_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592181~acl=/*~id=95198767765750385880289271463018~hmac=28afbc2d29a4a60ab9b67546142a8251c64a483f3693e3373af7c7509a619d86",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Georgia_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774592788~acl=/*~id=62020010081953731928437915194177~hmac=ef57841840e9d51e7a6c8eaacf82c1c5e2a55ad394d250885095cb80ecfea18a",
       "provider": "SonyLIV"
     }
   ]
