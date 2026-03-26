@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 11:20:20 UTC",
+  "last_updated": "2026-03-26 11:30:23 UTC",
   "total_matches": 2,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741598426996_IFC_Rajasthan_United_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774566654~acl=/*~id=31539393240788202737737238055503~hmac=d49d01f825c02e2248443ec26ee3141176ba75853a24097edd32dc4d349757f2",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774567261~acl=/*~id=03976573834027681198427128661684~hmac=8d55b3960915676cfdd6903439c78174c7c86583f74acca25a0861555fd47ffc",
       "provider": "SonyLIV"
     },
     {
@@ -21,7 +21,7 @@
       "isLive": true,
       "broadcast_channel": "LIV",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435943318137_DP_World_Tour26_Hero_Indian_Open_day1_24mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774566654~acl=/*~id=31539393240788202737737238055503~hmac=d49d01f825c02e2248443ec26ee3141176ba75853a24097edd32dc4d349757f2",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774567261~acl=/*~id=03976573834027681198427128661684~hmac=8d55b3960915676cfdd6903439c78174c7c86583f74acca25a0861555fd47ffc",
       "provider": "SonyLIV"
     }
   ]
