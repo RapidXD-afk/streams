@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 01:10:26 UTC",
+  "last_updated": "2026-03-27 01:20:17 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "Sony Sports Ten 2",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042943880735_INT_Friendlies26_Croatia_vs_Colombia_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774616480~acl=/*~id=50093132618927100998366442557680~hmac=da7d2591382d504ce9c8898e590e62a88ee6a3e049850a33f276747af138a8b1",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774617086~acl=/*~id=76148432522845608533615847226967~hmac=ef6a8693cb8ebf787804b203c412f35279d94f3ec965c2fa01c93d1afce487f5",
       "provider": "SonyLIV"
     }
   ]
