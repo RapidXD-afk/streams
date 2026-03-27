@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27 22:30:20 UTC",
-  "total_matches": 6,
+  "last_updated": "2026-03-27 22:40:16 UTC",
+  "total_matches": 5,
   "matches": [
     {
       "match_id": "141331",
@@ -11,7 +11,7 @@
       "startTime": "",
       "teams": "west indies women vs australia women",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141331_english_hls_73781d7d2f88993_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774736445~_GO=Generated~acl=/mumbai/141331_english_hls_73781d7d2f88993_1ta-di_h264/*~Signature=AeCY5MKyjE1BqaPxQQLgogy6a9u2ao80tx9LAjVKX1YQdYUHa28ojJIkmt3YhFknheaDrRprJjeyicmKhTTSYaXurCEA",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141331_english_hls_73781d7d2f88993_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774737012~_GO=Generated~acl=/mumbai/141331_english_hls_73781d7d2f88993_1ta-di_h264/*~Signature=AeCY5MISaM9cK6Pb2FQLxJdKw6B23dc2PL3kGoxaE9cPITondJMPbJvnFJY1GM-0EbT4laUbYIL1ng5yCtuml_JtrwwI",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -24,20 +24,7 @@
       "startTime": "",
       "teams": "featured groups day 2",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141592_english_hls_b12e528e5d57626_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774736458~_GO=Generated~acl=/mumbai/141592_english_hls_b12e528e5d57626_1ta-di_h264/*~Signature=AeCY5MIgLVhKcXhWZ6PkVuGQg2AzIHLX8NOiP-iuVmcrAvE655GAF0o-9RI6iGCmHTo-w819fitKhqWe7TLVZ9vllGoC",
-      "expire_date": "",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": "141590",
-      "title": "main feed day 2",
-      "tournament": "Texas Children's Houston Open 2026 Main Feed - Day 2 Memorial Park Golf Course -",
-      "category": "Golf",
-      "status": "LIVE",
-      "startTime": "",
-      "teams": "main feed day 2",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141590_english_hls_1afdd1cc4944683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774736471~_GO=Generated~acl=/mumbai/141590_english_hls_1afdd1cc4944683_1ta-di_h264/*~Signature=AeCY5MKyXd1aGjQh8eTZVVQboDnRnOPW7P2L09ypAhjjI9-UQrlGCf9fQ2u5igwQNPxh4k12itomX9x4m7FNVhZ02OkL",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141592_english_hls_b12e528e5d57626_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774737025~_GO=Generated~acl=/mumbai/141592_english_hls_b12e528e5d57626_1ta-di_h264/*~Signature=AeCY5MJD0jb1dV-CY8gjfREPV9cnV8bbDF1VKsRLwIvindMwYn5bHVQwoRxyEAbMWkor55nT7x2IAoU2lwGL1adlbNMO",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -50,7 +37,7 @@
       "startTime": "",
       "teams": "featured holes day 2",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141593_english_hls_fbf384ba173006_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774736484~_GO=Generated~acl=/mumbai/141593_english_hls_fbf384ba173006_1ta-di_h264/*~Signature=AeCY5ML6RAJxYdJRUb52NEXqnhP8-9gLmfM6k1LTgUNis-EFfVJst_PxwUnf8KCxnAYj7PRpSDn1kWW4EGqbgNtQASUF",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141593_english_hls_fbf384ba173006_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774737172~_GO=Generated~acl=/mumbai/141593_english_hls_fbf384ba173006_1ta-di_h264/*~Signature=AeCY5MJZKSqtvqLgwA7Yaj0s8BcIWRuwvO3dHwQ81fDWXeVfBORvsXrSxDAUX94kXabh7FheMbCxerpr98-NuWQlMuUM",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -63,7 +50,7 @@
       "startTime": "",
       "teams": "world feed",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141055_english_hls_6cc99085b549131_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774736498~_GO=Generated~acl=/mumbai/141055_english_hls_6cc99085b549131_1ta-di_h264/*~Signature=AeCY5MKD6yeW4Sb9UeMLPOU4S0dGTamL8T4yjrINBGMOl5RPoJ69o9HZorL26NJZcY45G0P9-sguAwcqAETVlXxGDeIM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141055_english_hls_6cc99085b549131_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774737185~_GO=Generated~acl=/mumbai/141055_english_hls_6cc99085b549131_1ta-di_h264/*~Signature=AeCY5MIaU3iUQFhCC5iTpgXm4OMdWuyXw-YE9rpShs-H6g1MZoZncwZFVEePEp1nXreoZ2uREKdSpBpNjuZ_-_ftG6QK",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -76,7 +63,7 @@
       "startTime": "",
       "teams": "world feed day 2",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141583_english_hls_02f4f3f20889912_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774736511~_GO=Generated~acl=/mumbai/141583_english_hls_02f4f3f20889912_1ta-di_h264/*~Signature=AeCY5MJmRj3yDjD-eI9gZbkVfDxYQkvfvWgBjRvOkgMfW9Y1eQj3YwKHAQ-G9nWTqJclGwqMFjg5HIGCNWUi7E-EIR8A",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141583_english_hls_02f4f3f20889912_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774737198~_GO=Generated~acl=/mumbai/141583_english_hls_02f4f3f20889912_1ta-di_h264/*~Signature=AeCY5MJiJCwn3Cte-bnWeDoo2WaxPWH-iG3fXhpNbARrlA44l8e2yWGxVuQC_9psPWG0vLzSDLvHHvOB9iaHD9f2JKAA",
       "expire_date": "",
       "provider": "FanCode"
     }
