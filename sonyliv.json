@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 08:50:24 UTC",
+  "last_updated": "2026-03-27 09:00:21 UTC",
   "total_matches": 1,
   "matches": [
     {
@@ -10,7 +10,7 @@
       "isLive": true,
       "broadcast_channel": "LIV",
       "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435942628837_DP_World_Tour26_Hero_Indian_Open_day2_24mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774644341~acl=/*~id=07744973610257554241981357919669~hmac=d33c1924bb4889f18d53ba6dd35dbff867e47485621405e8cb0b3865e933ca22",
+      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774644948~acl=/*~id=03052429160791407586077408160978~hmac=3757bbe6369eb7c62da27d2789b8bdb6cf77dfc0bddc86b257b0194e44d084ef",
       "provider": "SonyLIV"
     }
   ]
