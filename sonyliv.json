@@ -1,17 +1,5 @@
 {
-  "last_updated": "2026-03-27 01:40:16 UTC",
-  "total_matches": 1,
-  "matches": [
-    {
-      "contentId": "1090507670_ENG",
-      "match_name": "Croatia vs Colombia - 27 Mar 2026 [ENG]",
-      "event_name": "UEFA International Friendlies",
-      "category": "Football",
-      "isLive": true,
-      "broadcast_channel": "Sony Sports Ten 2",
-      "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042943880735_INT_Friendlies26_Croatia_vs_Colombia_20mar_landscape_thumb.jpg",
-      "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774618297~acl=/*~id=62197682288740063737565999528332~hmac=e5b1dae668006cdfe5c19e0d747c8f3f5fe3f632ac266b9589bf38fbdb93725d",
-      "provider": "SonyLIV"
-    }
-  ]
+  "last_updated": "2026-03-27 01:50:20 UTC",
+  "total_matches": 0,
+  "matches": []
 }
