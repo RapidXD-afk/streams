@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 05:20:19 UTC",
+  "last_updated": "2026-03-28 05:30:21 UTC",
   "total_matches": 2,
   "matches": [
     {
@@ -11,7 +11,7 @@
       "startTime": "",
       "teams": "tokyo verdy beleza vs stallion laguna",
       "image": "https://images.fancode.com/aig/match/v1774667324847/141215_CASACARDS_APP.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141215_english_hls_29500ef61b5391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774761382~_GO=Generated~acl=/mumbai/141215_english_hls_29500ef61b5391_1ta-di_h264/*~Signature=AeCY5MKdvSYJtmF6IRxHi45-xmt99hvX426nII8xMCFtuRQ4sI1a7AZ96DDh63t8kkOub8Rxaf_FKQ68ksqTpyHPVEwF",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141215_english_hls_29500ef61b5391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774762031~_GO=Generated~acl=/mumbai/141215_english_hls_29500ef61b5391_1ta-di_h264/*~Signature=AeCY5MJVwctEeWynxs-2E3t-3DimStYE439lHFZTobY9xBSv34TWD990kvzQvuoyRHeNKV_c0_beVbVEEMhOTyzgPLAM",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -24,7 +24,7 @@
       "startTime": "",
       "teams": "victoria vs south australia",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774761395~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MJtpIkvTnvyl5VBR-hwwvs2igedGv5k08OBCoDweMWUPbhF1JQky6drKU1dO08QWNN_iiV-R_HqmPzInnj9vcQG",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774762045~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MKowN7n0ShHF6SdBVHY65d3djoq_RnfypBDf3QdvZQ8MucKeOs9vRTDI3sL0C8pZC2sVbfHR2U2nrFgHh67vfkK",
       "expire_date": "",
       "provider": "FanCode"
     }
