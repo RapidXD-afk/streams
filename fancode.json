@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28 04:00:23 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-28 04:10:18 UTC",
+  "total_matches": 1,
   "matches": [
     {
       "match_id": "134044",
@@ -11,20 +11,7 @@
       "startTime": "",
       "teams": "victoria vs south australia",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774756120~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MLKDRWlSm69pSPLpleTr1vwdU9BgsdKVEoZTKmPFthGajVTxPLl-Xv4xq0fxlVVk72EhqqblvI1IZbusJ6zyxYM",
-      "expire_date": "",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": "141602",
-      "title": "ferrari challenge series",
-      "tournament": "Ferrari Challenge Series 2026 Australasia - Day 1",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "",
-      "teams": "ferrari challenge series",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141602_english_hls_2804e6abe886773_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774756267~_GO=Generated~acl=/mumbai/141602_english_hls_2804e6abe886773_1ta-di_h264/*~Signature=AeCY5MK7ZrtH2gwHAO5jVxxp7OXoPGxnCpWqUdYDVIT4CFeucmgwu1iaiAOy7IuaedF2aaVWYSHQB0a8vooZNuWxpZEJ",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774756769~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MIkFnDTcRnmR09G9s1KkXPsHD6x1g5o9SSLQeGmHEg-k6VQ6FCIq5lmpTUglCC_Kd-xU13q1l3vznDlitSXFfwB",
       "expire_date": "",
       "provider": "FanCode"
     }
