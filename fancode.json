@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28 08:10:23 UTC",
-  "total_matches": 3,
+  "last_updated": "2026-03-28 08:20:21 UTC",
+  "total_matches": 2,
   "matches": [
     {
       "match_id": "141653",
@@ -11,7 +11,7 @@
       "startTime": "",
       "teams": "namibia a vs scotland",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Scotland-tour-of-Namibia_FC-WEB.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141653_english_hls_bc6d6a7fb477590_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774771515~_GO=Generated~acl=/mumbai/141653_english_hls_bc6d6a7fb477590_1ta-di_h264/*~Signature=AeCY5MJQacYebQRFO08BXrSN-o1d3Ye4YFYUJY9_NIXZPUd90xAiQbM5VTI4BT8TM_t7MB850pT1mMKrlEGL10atJUUA",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141653_english_hls_bc6d6a7fb477590_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774772044~_GO=Generated~acl=/mumbai/141653_english_hls_bc6d6a7fb477590_1ta-di_h264/*~Signature=AeCY5MK1EuvbqXJ30ntKhPtOM7B9AeYMOf69tS9hNx1qfiZjmQzzfA4zj5dOoY8u_LUMUUa4-V0rZKu9PBWzC5qwOhUJ",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -24,20 +24,7 @@
       "startTime": "",
       "teams": "naegohyang women s fc vs ho chi minh city women",
       "image": "https://images.fancode.com/aig/match/v1774667324847/141216_CASACARDS_APP.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141216_english_hls_0defe999b876237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774771528~_GO=Generated~acl=/mumbai/141216_english_hls_0defe999b876237_1ta-di_h264/*~Signature=AeCY5MKDVRSTBWoXDXWU2NBZ0P99-wdQakZauBDYLRxZ4FzWZ94FXIoVl-MKN5_-GU0aRceluKxhxzsvJSvzToElHEcN",
-      "expire_date": "",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": "134044",
-      "title": "victoria vs south australia",
-      "tournament": "Sheffield Shield, 2025-26 Victoria",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "",
-      "teams": "victoria vs south australia",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774771542~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MKbx2_KM2NEWqB8RRrk7tAvdSc1eckPf8Eh5Wga5WEO8RwQqISM5Coonal90j7iHUH-aZnpeJCkMe_ncbua_6UH",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141216_english_hls_0defe999b876237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774772057~_GO=Generated~acl=/mumbai/141216_english_hls_0defe999b876237_1ta-di_h264/*~Signature=AeCY5MKZjLKfaqRgOwXe7vc0iv6BVb9xwblhN8N3foXPM3MXCL8R9fZUgkdZ6x7pdEWitGl2u6fdatzb2ROkdbUmP0QF",
       "expire_date": "",
       "provider": "FanCode"
     }
