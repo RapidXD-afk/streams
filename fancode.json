@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28 02:30:22 UTC",
-  "total_matches": 3,
+  "last_updated": "2026-03-28 02:40:18 UTC",
+  "total_matches": 2,
   "matches": [
     {
       "match_id": "134044",
@@ -11,7 +11,7 @@
       "startTime": "",
       "teams": "victoria vs south australia",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774751219~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MLelhDFmZtGx9Uq4A0CjKYsfTLM-mGAhsP0eqsDEjN5K9QRW5M8x79r1x7i_vgnN0yI7Ft5j5eVd-nqRvm84SkO",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774751749~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MKEPmqjj4kb2NIhzljr_s58po3iziJ_lEEB1uC1s6MwGiZxE3pQpjuKJSpYI-xNB9KtZy0aPeB2OtGAmWo-PIwE",
       "expire_date": "",
       "provider": "FanCode"
     },
@@ -24,20 +24,7 @@
       "startTime": "",
       "teams": "practice 3",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-web_1774421494775.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/139382_english_hls_ef28ac89d62142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774751233~_GO=Generated~acl=/mumbai/139382_english_hls_ef28ac89d62142_1ta-di_h264/*~Signature=AeCY5MIL0Qdt5Wmq47DvOhvEBKqy2fYYLioCNqiBbqWaFff_jSpBmfoRWjosuiCrvly0zZ-GaxAQCkuX3vNq4f0n0tMK",
-      "expire_date": "",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": "141331",
-      "title": "west indies women vs australia women",
-      "tournament": "Australia Women's tour of West Indies 2026 West Indies Women",
-      "category": "Cricket",
-      "status": "LIVE",
-      "startTime": "",
-      "teams": "west indies women vs australia women",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(12).png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/141331_english_hls_73781d7d2f88993_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774751246~_GO=Generated~acl=/mumbai/141331_english_hls_73781d7d2f88993_1ta-di_h264/*~Signature=AeCY5MIgebFiRjCxyZ2og04R2dLKS65VU3Hx0P_UcBHLvI07E1NhxDujc2bVBp1ro1Dvx_wsqPkpxMzrY7RFYAWu5gYI",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/139382_english_hls_ef28ac89d62142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774751761~_GO=Generated~acl=/mumbai/139382_english_hls_ef28ac89d62142_1ta-di_h264/*~Signature=AeCY5MJgK6McsWUSZ9p-2iWdmocx4vJ-pT_PTV-LQkKncEPf0XPX5m8q5A66qJ0ud-Wj_wgVhjIbUJu2cJ68FVWl0_gM",
       "expire_date": "",
       "provider": "FanCode"
     }
