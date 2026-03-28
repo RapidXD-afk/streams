@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28 02:40:18 UTC",
-  "total_matches": 2,
+  "last_updated": "2026-03-28 02:50:17 UTC",
+  "total_matches": 1,
   "matches": [
     {
       "match_id": "134044",
@@ -11,20 +11,7 @@
       "startTime": "",
       "teams": "victoria vs south australia",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774751749~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MKEPmqjj4kb2NIhzljr_s58po3iziJ_lEEB1uC1s6MwGiZxE3pQpjuKJSpYI-xNB9KtZy0aPeB2OtGAmWo-PIwE",
-      "expire_date": "",
-      "provider": "FanCode"
-    },
-    {
-      "match_id": "139382",
-      "title": "practice 3",
-      "tournament": "F1 ARAMCO JAPANESE GRAND PRIX 2026 Practice 3 Japan",
-      "category": "Racing",
-      "status": "LIVE",
-      "startTime": "",
-      "teams": "practice 3",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-web_1774421494775.jpg",
-      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/139382_english_hls_ef28ac89d62142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1774751761~_GO=Generated~acl=/mumbai/139382_english_hls_ef28ac89d62142_1ta-di_h264/*~Signature=AeCY5MJgK6McsWUSZ9p-2iWdmocx4vJ-pT_PTV-LQkKncEPf0XPX5m8q5A66qJ0ud-Wj_wgVhjIbUJu2cJ68FVWl0_gM",
+      "stream_1080p": "https://in-mc-flive.fancode.com/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774752264~_GO=Generated~acl=/mumbai/134044_english_hls_da0c548c6225793_1ta-di_h264/*~Signature=AeCY5MLB3Wg9gy3x-ocnC5uRfUpMhCNWe7r3gJC18oD1Ks7lMMZ3JJiF1zr2yLTbQe4NVOx2Hks86mLFPlAwNLGofkoO",
       "expire_date": "",
       "provider": "FanCode"
     }
